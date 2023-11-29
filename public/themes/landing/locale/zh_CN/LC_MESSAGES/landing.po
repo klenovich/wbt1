@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vvveb\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Vvveb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 2.3\n"
+
+msgid "Landing - Homepage"
+msgstr "登陆-首页"
+
+msgid "Categories"
+msgstr "类别"
+
+msgid "Popular"
+msgstr "流行"
+
+msgid "Type for search"
+msgstr "输入搜索"
+
+msgid "Newest"
+msgstr "最新"
+
+msgid "Bestsellers"
+msgstr "畅销书"
+
+msgid "Shop"
+msgstr "商店"
+
+msgid "Blog"
+msgstr "博客"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "Guides"
+msgstr "指南"
+
+msgid "Order status"
+msgstr "订单状态"
+
+msgid "Shipping & Delivery"
+msgstr "航运"
+
+msgid "Payment options"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "E-Mail Address"
+msgstr ""
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Authenticating"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Forgotten Password"
+msgstr ""
+
+msgid "New Customer"
+msgstr ""
+
+msgid "Register Account"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "John Doe"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Loading ..."
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Mango"
+msgstr "芒果"
+
+msgid "Size: S"
+msgstr ""
+
+msgid "Color: Red"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "subtotal:"
+msgstr ""
+
+msgid "$274.00"
+msgstr ""
+
+msgid "delivery:"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "discount:"
+msgstr ""
+
+msgid "-15%"
+msgstr ""
+
+msgid "total:"
+msgstr ""
+
+msgid "VIEW CART"
+msgstr ""
+
+msgid "check out"
+msgstr ""
+
+msgid "Enter text to search!"
+msgstr ""
+
+msgid "No posts found!"
+msgstr ""
+
+msgid "No products found!"
+msgstr ""
+
+msgid "Add to cart"
+msgstr ""
+
+msgid "asoss"
+msgstr ""
+
+msgid "New Collection"
+msgstr ""
+
+msgid "view collection"
+msgstr ""
+
+msgid "Clothing"
+msgstr ""
+
+msgid "Shoes"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "-60%"
+msgstr ""
+
+msgid "Global Sale"
+msgstr ""
+
+msgid "Buy Now"
+msgstr ""
+
+msgid "Popular Products"
+msgstr ""
+
+msgid "Latest Posts"
+msgstr ""
+
+msgid "Continue reading"
+msgstr ""
+
+msgid "Term of use"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Copyright &copy;"
+msgstr ""
+
+msgid "All rights reserved | This template is made with"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "Colorlib"
+msgstr ""
+
+msgid "Powered by"
+msgstr ""
+
+msgid "Vvveb"
+msgstr ""
+
+msgid "Product was added to cart."
+msgstr ""
+
+msgid "Terms and conditions"
+msgstr "条款和条件"
+
+

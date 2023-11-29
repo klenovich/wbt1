@@ -1,0 +1,5632 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-10 15:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: install/controller/index.php:186
+msgid "Installation succesful!"
+msgstr ""
+
+#: admin/controller/product/manufacturers.php:54
+msgid "Manufacturer(s) deleted!"
+msgstr ""
+
+#: admin/controller/product/products.php:54
+msgid "Product(s) deleted!"
+msgstr ""
+
+#: admin/controller/product/categories.php:35
+#: admin/controller/content/categories.php:35
+msgid "Item removed!"
+msgstr ""
+
+#: admin/controller/product/categories.php:47
+#: admin/controller/content/menus.php:73
+#: admin/controller/content/categories.php:47
+msgid "Items reordered!"
+msgstr ""
+
+#: admin/controller/product/product.php:194
+msgid "Product saved!"
+msgstr ""
+
+#: admin/controller/editor/code.php:140 admin/controller/media/media.php:92
+msgid "Error uploading file!"
+msgstr ""
+
+#: admin/controller/settings/settings.php:40
+#: plugins/insert-scripts/admin/controller/settings.php:38
+#: plugins/cdn/admin/controller/settings.php:37
+#: plugins/gravatar/admin/controller/settings.php:40
+msgid "Settings saved!"
+msgstr ""
+
+#: admin/controller/settings/settings.php:42
+msgid "Error saving!"
+msgstr ""
+
+#: admin/controller/media/media.php:73
+msgid "No file sent."
+msgstr ""
+
+#: admin/controller/media/media.php:77
+msgid "Exceeded filesize limit."
+msgstr ""
+
+#: admin/controller/media/media.php:80
+msgid "Unknown errors."
+msgstr ""
+
+#: admin/controller/user/reset.php:37
+msgid "A reset email was sent, please use it to reset your password!"
+msgstr ""
+
+#: admin/controller/user/reset.php:39
+msgid "Email not found!"
+msgstr ""
+
+#: admin/controller/user/login.php:78 app/controller/user/login.php:35
+msgid "Login successful!"
+msgstr ""
+
+#: admin/controller/user/login.php:89 app/controller/user/login.php:42
+msgid "Authentication failed, wrong email or password!"
+msgstr ""
+
+#: admin/controller/content/posts.php:57
+msgid "Post deleted!"
+msgstr ""
+
+#: admin/controller/content/posts.php:59
+msgid "Error deleting post!"
+msgstr ""
+
+#: admin/controller/content/posts.php:99
+msgid "s"
+msgstr ""
+
+#: admin/controller/tools/errorlog.php:41 plugins/debug/plugin.php:140
+msgid "empty file"
+msgstr ""
+
+#: admin/controller/tools/errorlog.php:46 plugins/debug/plugin.php:143
+msgid ""
+"PHP error log not readable, make sure that your log is properly configured "
+"and that is readable."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:16
+msgid "Vvveb - Themes"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:128
+#: storage/compiled-templates/admin_1_default_media_media.html:129
+#: storage/compiled-templates/admin_1_default_order_orders.html:129
+#: storage/compiled-templates/admin_1_default_tools_cache.html:130
+#: storage/compiled-templates/admin_1_default_product_product.html:128
+#: storage/compiled-templates/admin_1_default_content_post.html:128
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:128
+#: storage/compiled-templates/admin_1_default_user_users.html:128
+#: storage/compiled-templates/admin_1_default_settings_settings.html:128
+#: storage/compiled-templates/admin_1_default_index.html:135
+#: storage/compiled-templates/admin_1_default_content_posts.html:128
+#: storage/compiled-templates/admin_1_default_product_products.html:129
+msgid "View live website"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:148
+#: storage/compiled-templates/admin_1_default_media_media.html:149
+#: storage/compiled-templates/admin_1_default_order_orders.html:149
+#: storage/compiled-templates/admin_1_default_tools_cache.html:150
+#: storage/compiled-templates/admin_1_default_product_product.html:148
+#: storage/compiled-templates/admin_1_default_content_post.html:148
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:148
+#: storage/compiled-templates/admin_1_default_user_users.html:148
+#: storage/compiled-templates/admin_1_default_settings_settings.html:148
+#: storage/compiled-templates/admin_1_default_index.html:155
+#: storage/compiled-templates/admin_1_default_content_posts.html:148
+#: storage/compiled-templates/admin_1_default_product_products.html:149
+msgid "Manage sites"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:182
+#: storage/compiled-templates/admin_1_default_theme_themes.html:235
+#: storage/compiled-templates/admin_1_default_media_media.html:183
+#: storage/compiled-templates/admin_1_default_media_media.html:236
+#: storage/compiled-templates/admin_1_default_order_orders.html:183
+#: storage/compiled-templates/admin_1_default_order_orders.html:236
+#: storage/compiled-templates/admin_1_default_tools_cache.html:184
+#: storage/compiled-templates/admin_1_default_tools_cache.html:237
+#: storage/compiled-templates/admin_1_default_product_product.html:182
+#: storage/compiled-templates/admin_1_default_product_product.html:235
+#: storage/compiled-templates/admin_1_default_content_post.html:182
+#: storage/compiled-templates/admin_1_default_content_post.html:235
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:182
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:235
+#: storage/compiled-templates/admin_1_default_user_users.html:182
+#: storage/compiled-templates/admin_1_default_user_users.html:235
+#: storage/compiled-templates/admin_1_default_settings_settings.html:182
+#: storage/compiled-templates/admin_1_default_settings_settings.html:235
+#: storage/compiled-templates/admin_1_default_index.html:189
+#: storage/compiled-templates/admin_1_default_index.html:242
+#: storage/compiled-templates/admin_1_default_content_posts.html:182
+#: storage/compiled-templates/admin_1_default_content_posts.html:235
+#: storage/compiled-templates/admin_1_default_product_products.html:183
+#: storage/compiled-templates/admin_1_default_product_products.html:236
+#: config/custom-product-menu.php:45 config/custom-post-menu.php:45
+#: config/admin-menu.php:414 config/admin-menu.php:702
+msgid "Add new"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:246
+#: storage/compiled-templates/admin_1_default_media_media.html:247
+#: storage/compiled-templates/admin_1_default_order_orders.html:247
+#: storage/compiled-templates/admin_1_default_tools_cache.html:248
+#: storage/compiled-templates/admin_1_default_product_product.html:246
+#: storage/compiled-templates/admin_1_default_content_post.html:246
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:246
+#: storage/compiled-templates/admin_1_default_user_users.html:246
+#: storage/compiled-templates/admin_1_default_settings_settings.html:246
+#: storage/compiled-templates/admin_1_default_index.html:253
+#: storage/compiled-templates/admin_1_default_content_posts.html:246
+#: storage/compiled-templates/admin_1_default_product_products.html:247
+msgid "Docs"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:268
+#: storage/compiled-templates/admin_1_default_media_media.html:269
+#: storage/compiled-templates/admin_1_default_order_orders.html:269
+#: storage/compiled-templates/admin_1_default_tools_cache.html:270
+#: storage/compiled-templates/admin_1_default_product_product.html:268
+#: storage/compiled-templates/admin_1_default_content_post.html:268
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:268
+#: storage/compiled-templates/admin_1_default_user_users.html:268
+#: storage/compiled-templates/admin_1_default_settings_settings.html:268
+#: storage/compiled-templates/admin_1_default_index.html:275
+#: storage/compiled-templates/admin_1_default_content_posts.html:268
+#: storage/compiled-templates/admin_1_default_product_products.html:269
+msgid "Edit Profile"
+msgstr ""
+
+msgid "Loading ..."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:280
+#: storage/compiled-templates/admin_1_default_theme_themes.html:455
+#: storage/compiled-templates/admin_1_default_media_media.html:281
+#: storage/compiled-templates/admin_1_default_order_orders.html:281
+#: storage/compiled-templates/app_1_landing_index.html:161
+#: storage/compiled-templates/app_1_landing_index.html:219
+#: storage/compiled-templates/app_1_landing_index.html:549
+#: storage/compiled-templates/app_1_landing_contact.html:200
+#: storage/compiled-templates/app_1_landing_contact.html:258
+#: storage/compiled-templates/admin_1_default_tools_cache.html:282
+#: storage/compiled-templates/admin_1_default_product_product.html:280
+#: storage/compiled-templates/admin_1_default_content_post.html:280
+#: storage/compiled-templates/app_1_landing_content_page.html:209
+#: storage/compiled-templates/app_1_landing_content_page.html:267
+#: storage/compiled-templates/app_1_landing_product_index.html:200
+#: storage/compiled-templates/app_1_landing_product_index.html:258
+#: storage/compiled-templates/app_1_landing_product_index.html:580
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:280
+#: storage/compiled-templates/admin_1_default_user_users.html:280
+#: storage/compiled-templates/admin_1_default_settings_settings.html:280
+#: storage/compiled-templates/admin_1_default_settings_settings.html:449
+#: storage/compiled-templates/app_1_landing_content_index.html:200
+#: storage/compiled-templates/app_1_landing_content_index.html:258
+#: storage/compiled-templates/admin_1_default_index.html:287
+#: storage/compiled-templates/admin_1_default_content_posts.html:280
+#: storage/compiled-templates/admin_1_default_product_products.html:281
+msgid "..."
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:302
+msgid ""
+"&ensp;\n"
+" Themes"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:311
+msgid "&nbsp; Upload theme"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:317
+msgid "&nbsp; Install theme"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:404
+#: storage/compiled-templates/admin_1_default_media_media.html:337
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:420
+msgid "Drop or choose files to upload"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:446
+msgid "Preview"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:452
+msgid "Downloading 10%"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:455
+msgid "Installing"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:460
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:541
+msgid "Activate"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:473
+msgid "Edit theme"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:479
+msgid "Import demo content"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:509
+#: storage/compiled-templates/admin_1_default_order_orders.html:642
+#: storage/compiled-templates/admin_1_default_user_users.html:604
+#: storage/compiled-templates/admin_1_default_content_posts.html:670
+#: storage/compiled-templates/admin_1_default_product_products.html:655
+msgid "items, page"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:511
+#: storage/compiled-templates/admin_1_default_order_orders.html:644
+#: storage/compiled-templates/admin_1_default_user_users.html:606
+#: storage/compiled-templates/admin_1_default_content_posts.html:672
+#: storage/compiled-templates/admin_1_default_product_products.html:657
+msgid "of"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:511
+#: storage/compiled-templates/admin_1_default_order_orders.html:304
+#: storage/compiled-templates/admin_1_default_order_orders.html:517
+#: storage/compiled-templates/admin_1_default_order_orders.html:520
+#: storage/compiled-templates/admin_1_default_order_orders.html:523
+#: storage/compiled-templates/admin_1_default_order_orders.html:530
+#: storage/compiled-templates/admin_1_default_order_orders.html:533
+#: storage/compiled-templates/admin_1_default_order_orders.html:536
+#: storage/compiled-templates/admin_1_default_order_orders.html:579
+#: storage/compiled-templates/admin_1_default_order_orders.html:589
+#: storage/compiled-templates/admin_1_default_order_orders.html:594
+#: storage/compiled-templates/admin_1_default_order_orders.html:602
+#: storage/compiled-templates/admin_1_default_order_orders.html:644
+#: storage/compiled-templates/admin_1_default_tools_cache.html:304
+#: storage/compiled-templates/admin_1_default_product_product.html:302
+#: storage/compiled-templates/admin_1_default_content_post.html:302
+#: storage/compiled-templates/app_1_landing_product_index.html:437
+#: storage/compiled-templates/app_1_landing_product_index.html:442
+#: storage/compiled-templates/app_1_landing_product_index.html:447
+#: storage/compiled-templates/app_1_landing_product_index.html:452
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:447
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:451
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:454
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:457
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:462
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:536
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:541
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:553
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:559
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:568
+#: storage/compiled-templates/admin_1_default_user_users.html:305
+#: storage/compiled-templates/admin_1_default_user_users.html:551
+#: storage/compiled-templates/admin_1_default_user_users.html:565
+#: storage/compiled-templates/admin_1_default_user_users.html:606
+#: storage/compiled-templates/admin_1_default_content_posts.html:305
+#: storage/compiled-templates/admin_1_default_content_posts.html:525
+#: storage/compiled-templates/admin_1_default_content_posts.html:528
+#: storage/compiled-templates/admin_1_default_content_posts.html:531
+#: storage/compiled-templates/admin_1_default_content_posts.html:534
+#: storage/compiled-templates/admin_1_default_content_posts.html:537
+#: storage/compiled-templates/admin_1_default_content_posts.html:540
+#: storage/compiled-templates/admin_1_default_content_posts.html:614
+#: storage/compiled-templates/admin_1_default_content_posts.html:620
+#: storage/compiled-templates/admin_1_default_content_posts.html:629
+#: storage/compiled-templates/admin_1_default_content_posts.html:672
+#: storage/compiled-templates/admin_1_default_product_products.html:306
+#: storage/compiled-templates/admin_1_default_product_products.html:520
+#: storage/compiled-templates/admin_1_default_product_products.html:523
+#: storage/compiled-templates/admin_1_default_product_products.html:526
+#: storage/compiled-templates/admin_1_default_product_products.html:529
+#: storage/compiled-templates/admin_1_default_product_products.html:532
+#: storage/compiled-templates/admin_1_default_product_products.html:589
+#: storage/compiled-templates/admin_1_default_product_products.html:599
+#: storage/compiled-templates/admin_1_default_product_products.html:605
+#: storage/compiled-templates/admin_1_default_product_products.html:614
+#: storage/compiled-templates/admin_1_default_product_products.html:657
+msgid "&ensp;"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:520
+#: storage/compiled-templates/admin_1_default_order_orders.html:653
+#: storage/compiled-templates/app_1_landing_product_index.html:607
+#: storage/compiled-templates/admin_1_default_user_users.html:615
+#: storage/compiled-templates/app_1_landing_content_index.html:509
+#: storage/compiled-templates/admin_1_default_content_posts.html:681
+#: storage/compiled-templates/admin_1_default_product_products.html:666
+msgid "First"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:527
+#: storage/compiled-templates/admin_1_default_order_orders.html:660
+#: storage/compiled-templates/app_1_landing_product_index.html:615
+#: storage/compiled-templates/admin_1_default_user_users.html:622
+#: storage/compiled-templates/app_1_landing_content_index.html:517
+#: storage/compiled-templates/admin_1_default_content_posts.html:688
+#: storage/compiled-templates/admin_1_default_product_products.html:673
+msgid "Previous"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:544
+#: storage/compiled-templates/admin_1_default_order_orders.html:677
+#: storage/compiled-templates/app_1_landing_product_index.html:631
+#: storage/compiled-templates/admin_1_default_user_users.html:639
+#: storage/compiled-templates/app_1_landing_content_index.html:541
+#: storage/compiled-templates/admin_1_default_content_posts.html:705
+#: storage/compiled-templates/admin_1_default_product_products.html:690
+msgid "Next"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:551
+#: storage/compiled-templates/admin_1_default_order_orders.html:684
+#: storage/compiled-templates/app_1_landing_product_index.html:639
+#: storage/compiled-templates/admin_1_default_user_users.html:646
+#: storage/compiled-templates/app_1_landing_content_index.html:549
+#: storage/compiled-templates/admin_1_default_content_posts.html:712
+#: storage/compiled-templates/admin_1_default_product_products.html:697
+msgid "Last"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:576
+msgid "Install resources"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:578
+msgid "&times;"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:589
+msgid "Import Demo Content"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:609
+msgid "Required Plugins"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:628
+msgid "Recommended Plugins"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:655
+#: storage/compiled-templates/admin_1_default_index.html:1063
+msgid "Close"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_theme_themes.html:656
+msgid "Install theme resources"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_media_media.html:16
+msgid "Vvveb - Media"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_media_media.html:317
+#: storage/compiled-templates/admin_1_default_order_orders.html:498
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:312
+#: storage/compiled-templates/admin_1_default_user_users.html:498
+#: storage/compiled-templates/admin_1_default_content_posts.html:500
+#: storage/compiled-templates/admin_1_default_product_products.html:499
+msgid "Delete selected"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_media_media.html:328
+msgid "Upload new file"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_media_media.html:353
+msgid "No files here."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:16
+msgid "Vvveb - Orders"
+msgstr ""
+
+msgid "Orders"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:316
+#: storage/compiled-templates/admin_1_default_order_orders.html:623
+msgid "&nbsp; Add order"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:330
+msgid "Order Name"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:334
+#: storage/compiled-templates/admin_1_default_content_posts.html:334
+#: storage/compiled-templates/admin_1_default_product_products.html:334
+msgid "Product 1 23"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:337
+#: storage/compiled-templates/admin_1_default_user_users.html:336
+#: storage/compiled-templates/admin_1_default_content_posts.html:337
+#: storage/compiled-templates/admin_1_default_product_products.html:337
+msgid "Product 2"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:340
+#: storage/compiled-templates/admin_1_default_user_users.html:339
+#: storage/compiled-templates/admin_1_default_content_posts.html:340
+#: storage/compiled-templates/admin_1_default_content_posts.html:358
+#: storage/compiled-templates/admin_1_default_product_products.html:340
+#: storage/compiled-templates/admin_1_default_product_products.html:358
+msgid "Product 3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:343
+#: storage/compiled-templates/admin_1_default_user_users.html:342
+#: storage/compiled-templates/admin_1_default_content_posts.html:343
+#: storage/compiled-templates/admin_1_default_product_products.html:343
+msgid "Product 4"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:346
+#: storage/compiled-templates/admin_1_default_user_users.html:345
+#: storage/compiled-templates/admin_1_default_content_posts.html:346
+#: storage/compiled-templates/admin_1_default_product_products.html:346
+msgid "Product 5"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:351
+#: storage/compiled-templates/admin_1_default_product_product.html:492
+#: storage/compiled-templates/admin_1_default_user_users.html:350
+#: storage/compiled-templates/admin_1_default_content_posts.html:351
+#: storage/compiled-templates/admin_1_default_product_products.html:351
+msgid "Model"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:355
+msgid "order 15"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:358
+msgid "order 3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:361
+msgid "order 21"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:364
+msgid "order 1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:367
+msgid "order 14"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:374
+#: storage/compiled-templates/admin_1_default_product_product.html:544
+#: storage/compiled-templates/admin_1_default_product_product.html:858
+#: storage/compiled-templates/admin_1_default_product_product.html:1102
+#: storage/compiled-templates/admin_1_default_product_product.html:1364
+#: storage/compiled-templates/admin_1_default_product_product.html:1702
+#: storage/compiled-templates/admin_1_default_product_product.html:1855
+#: storage/compiled-templates/app_1_landing_product_index.html:536
+#: storage/compiled-templates/admin_1_default_user_users.html:373
+#: storage/compiled-templates/admin_1_default_content_posts.html:374
+#: storage/compiled-templates/admin_1_default_product_products.html:374
+#: storage/compiled-templates/admin_1_default_product_products.html:526
+msgid "Price"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:384
+#: storage/compiled-templates/admin_1_default_order_orders.html:523
+#: storage/compiled-templates/admin_1_default_product_product.html:673
+#: storage/compiled-templates/admin_1_default_content_post.html:526
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:454
+#: storage/compiled-templates/admin_1_default_user_users.html:383
+#: storage/compiled-templates/admin_1_default_user_users.html:521
+#: storage/compiled-templates/admin_1_default_index.html:767
+#: storage/compiled-templates/admin_1_default_content_posts.html:384
+#: storage/compiled-templates/admin_1_default_product_products.html:384
+msgid "Status"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:387
+#: storage/compiled-templates/admin_1_default_product_product.html:676
+#: storage/compiled-templates/admin_1_default_user_users.html:386
+#: storage/compiled-templates/admin_1_default_content_posts.html:387
+#: storage/compiled-templates/admin_1_default_product_products.html:387
+msgid "Enabled"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:388
+#: storage/compiled-templates/admin_1_default_product_product.html:677
+#: storage/compiled-templates/admin_1_default_user_users.html:387
+#: storage/compiled-templates/admin_1_default_content_posts.html:388
+#: storage/compiled-templates/admin_1_default_product_products.html:388
+msgid "Disabled"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:392
+#: storage/compiled-templates/admin_1_default_user_users.html:391
+#: storage/compiled-templates/admin_1_default_content_posts.html:392
+#: storage/compiled-templates/admin_1_default_product_products.html:392
+msgid "Filter"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:401
+#: storage/compiled-templates/admin_1_default_user_users.html:400
+#: storage/compiled-templates/admin_1_default_content_posts.html:401
+#: storage/compiled-templates/admin_1_default_product_products.html:401
+msgid "Check this custom checkbox"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:407
+#: storage/compiled-templates/admin_1_default_user_users.html:406
+#: storage/compiled-templates/admin_1_default_content_posts.html:407
+#: storage/compiled-templates/admin_1_default_product_products.html:407
+msgid "Toggle this custom radio"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:412
+#: storage/compiled-templates/admin_1_default_user_users.html:411
+#: storage/compiled-templates/admin_1_default_content_posts.html:412
+#: storage/compiled-templates/admin_1_default_product_products.html:412
+msgid "Or toggle this other custom radio"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:511
+#: storage/compiled-templates/admin_1_default_order_orders.html:546
+#: storage/compiled-templates/admin_1_default_content_post.html:320
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:439
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:473
+#: storage/compiled-templates/admin_1_default_user_users.html:512
+#: storage/compiled-templates/admin_1_default_user_users.html:531
+#: storage/compiled-templates/admin_1_default_content_posts.html:316
+#: storage/compiled-templates/admin_1_default_content_posts.html:518
+#: storage/compiled-templates/admin_1_default_content_posts.html:550
+#: storage/compiled-templates/admin_1_default_content_posts.html:649
+#: storage/compiled-templates/admin_1_default_product_products.html:513
+#: storage/compiled-templates/admin_1_default_product_products.html:542
+msgid "&nbsp;"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:517
+#: config/admin-menu.php:604
+msgid "Order"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:517
+msgid "ID"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:526
+msgid ""
+"&ensp;\n"
+" Total"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:530
+#: storage/compiled-templates/admin_1_default_order_orders.html:533
+#: storage/compiled-templates/admin_1_default_product_product.html:808
+#: storage/compiled-templates/admin_1_default_content_posts.html:537
+msgid "Date"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:530
+msgid "Added"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:533
+msgid "Modified"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:536
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:462
+#: storage/compiled-templates/admin_1_default_user_users.html:522
+#: storage/compiled-templates/admin_1_default_content_posts.html:540
+#: storage/compiled-templates/admin_1_default_product_products.html:532
+msgid "Actions"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:583
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:547
+#: storage/compiled-templates/admin_1_default_user_users.html:556
+#: storage/compiled-templates/admin_1_default_content_posts.html:609
+#: storage/compiled-templates/admin_1_default_product_products.html:594
+msgid "Toggle primary"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:589
+#: storage/compiled-templates/admin_1_default_content_posts.html:582
+#: storage/compiled-templates/admin_1_default_content_posts.html:615
+#: storage/compiled-templates/admin_1_default_product_products.html:570
+#: storage/compiled-templates/admin_1_default_product_products.html:600
+msgid "View"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:594
+#: storage/compiled-templates/admin_1_default_content_posts.html:577
+#: storage/compiled-templates/admin_1_default_content_posts.html:621
+#: storage/compiled-templates/admin_1_default_product_products.html:565
+#: storage/compiled-templates/admin_1_default_product_products.html:606
+msgid "Design"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_order_orders.html:618
+#: storage/compiled-templates/admin_1_default_index.html:801
+msgid "No orders to display!"
+msgstr ""
+
+msgid "Vvveb"
+msgstr ""
+
+msgid "E-Mail Address"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Authenticating"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Forgotten Password"
+msgstr ""
+
+msgid "New Customer"
+msgstr ""
+
+msgid "Register Account"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "John Doe"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:275
+#: storage/compiled-templates/app_1_landing_contact.html:314
+#: storage/compiled-templates/app_1_landing_content_page.html:323
+#: storage/compiled-templates/app_1_landing_product_index.html:314
+#: storage/compiled-templates/app_1_landing_content_index.html:314
+msgid "Empty cart"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:277
+#: storage/compiled-templates/app_1_landing_contact.html:316
+#: storage/compiled-templates/app_1_landing_content_page.html:325
+#: storage/compiled-templates/app_1_landing_product_index.html:316
+#: storage/compiled-templates/app_1_landing_content_index.html:316
+msgid "No products added yet!"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:293
+#: storage/compiled-templates/app_1_landing_contact.html:332
+#: storage/compiled-templates/app_1_landing_content_page.html:341
+#: storage/compiled-templates/app_1_landing_product_index.html:332
+#: storage/compiled-templates/app_1_landing_content_index.html:332
+msgid "Sub-Total:"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:295
+#: storage/compiled-templates/app_1_landing_contact.html:334
+#: storage/compiled-templates/app_1_landing_content_page.html:343
+#: storage/compiled-templates/app_1_landing_product_index.html:334
+#: storage/compiled-templates/app_1_landing_content_index.html:334
+msgid "$101.00"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:299
+#: storage/compiled-templates/app_1_landing_contact.html:338
+#: storage/compiled-templates/app_1_landing_content_page.html:347
+#: storage/compiled-templates/app_1_landing_product_index.html:338
+#: storage/compiled-templates/app_1_landing_content_index.html:338
+msgid "Eco Tax (-2.00):"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:301
+#: storage/compiled-templates/app_1_landing_contact.html:340
+#: storage/compiled-templates/app_1_landing_content_page.html:349
+#: storage/compiled-templates/app_1_landing_product_index.html:340
+#: storage/compiled-templates/app_1_landing_content_index.html:340
+msgid "$2.00"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:305
+#: storage/compiled-templates/app_1_landing_contact.html:344
+#: storage/compiled-templates/app_1_landing_content_page.html:353
+#: storage/compiled-templates/app_1_landing_product_index.html:344
+#: storage/compiled-templates/app_1_landing_content_index.html:344
+msgid "VAT (20%):"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:307
+#: storage/compiled-templates/app_1_landing_contact.html:346
+#: storage/compiled-templates/app_1_landing_content_page.html:355
+#: storage/compiled-templates/app_1_landing_product_index.html:346
+#: storage/compiled-templates/app_1_landing_content_index.html:346
+msgid "$20.20"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:311
+#: storage/compiled-templates/app_1_landing_contact.html:350
+#: storage/compiled-templates/app_1_landing_content_page.html:359
+#: storage/compiled-templates/app_1_landing_product_index.html:350
+#: storage/compiled-templates/app_1_landing_content_index.html:350
+msgid "Total:"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:313
+#: storage/compiled-templates/app_1_landing_contact.html:352
+#: storage/compiled-templates/app_1_landing_content_page.html:361
+#: storage/compiled-templates/app_1_landing_product_index.html:352
+#: storage/compiled-templates/app_1_landing_content_index.html:352
+msgid "$123.20"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:326
+#: storage/compiled-templates/app_1_landing_contact.html:365
+#: storage/compiled-templates/app_1_landing_content_page.html:374
+#: storage/compiled-templates/app_1_landing_product_index.html:365
+#: storage/compiled-templates/app_1_landing_content_index.html:365
+msgid "View cart"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:331
+#: storage/compiled-templates/app_1_landing_contact.html:370
+#: storage/compiled-templates/app_1_landing_content_page.html:379
+#: storage/compiled-templates/app_1_landing_product_index.html:370
+#: storage/compiled-templates/app_1_landing_content_index.html:370
+msgid "Checkout"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:359
+msgid "The next generation website builder"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:360
+msgid "Powerful and easy to use drag and drop website builder for blogs,"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:361
+msgid "presentation or ecommerce stores."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:365
+msgid "Free Download"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:366
+msgid "Live Demo"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:385
+msgid "rough-edges-bottom"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:405
+msgid "Better Security"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:407
+#, php-format
+msgid ""
+"Vvveb is 100% safe against sql injections, a vulerability that affects most "
+"CMSs."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:419
+msgid "Unlimited customization"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:421
+msgid "Vvveb uses only html for templating for maximum flexibility."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:433
+msgid "Advanced Ecommerce"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:435
+msgid ""
+"Vvveb is a full featured ecommerce platform with advanced functionality."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:446
+msgid "Full Localization"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:448
+msgid "Publish content in multiple languages or sell in different currencies."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:462
+msgid "new"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:463
+msgid "Code editor with syntax highglighting that updates in real time"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:465
+#: storage/compiled-templates/app_1_landing_index.html:484
+msgid ""
+"The html for sections blocks and components and this template are built "
+"using Bootsrap."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:466
+#: storage/compiled-templates/app_1_landing_index.html:485
+msgid "Use any of the hundreds fonts from google fonts for your design."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:467
+#: storage/compiled-templates/app_1_landing_index.html:486
+msgid ""
+"Powerful and easy to use drag and drop builder for blogs, websites or "
+"ecommerce stores."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:469
+#: storage/compiled-templates/app_1_landing_index.html:488
+msgid "Learn More"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:481
+msgid "on sale"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:482
+msgid ""
+"Intuitive building with simple drag and drop for sections, components and "
+"blocks"
+msgstr ""
+
+msgid "Popular Products"
+msgstr ""
+
+msgid "Add to cart"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:603
+msgid "Some of our customers"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:604
+msgid "Hear what our customers have to say"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:619
+#: storage/compiled-templates/app_1_landing_index.html:637
+#: storage/compiled-templates/app_1_landing_index.html:654
+#: storage/compiled-templates/app_1_landing_index.html:672
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu sem tempor, "
+"varius quam at, luctus dui."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:624
+#: storage/compiled-templates/app_1_landing_index.html:641
+#: storage/compiled-templates/app_1_landing_index.html:659
+#: storage/compiled-templates/app_1_landing_index.html:677
+msgid "Company Inc."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:640
+#: storage/compiled-templates/app_1_landing_index.html:676
+msgid "Jane Doe"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:689
+msgid "Choose your plan"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:690
+msgid "14-day free trial no credit card required."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:700
+msgid "Personal"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:702
+#: storage/compiled-templates/app_1_landing_index.html:732
+#: storage/compiled-templates/app_1_landing_index.html:762
+msgid "$"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:703
+msgid "49"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:704
+#: storage/compiled-templates/app_1_landing_index.html:734
+#: storage/compiled-templates/app_1_landing_index.html:764
+msgid "/mos"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:708
+#: storage/compiled-templates/app_1_landing_index.html:738
+#: storage/compiled-templates/app_1_landing_index.html:768
+msgid "5 Dog Walk"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:711
+#: storage/compiled-templates/app_1_landing_index.html:741
+#: storage/compiled-templates/app_1_landing_index.html:771
+msgid "3 Vet Visit"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:714
+#: storage/compiled-templates/app_1_landing_index.html:744
+#: storage/compiled-templates/app_1_landing_index.html:774
+msgid "3 Pet Spa"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:717
+#: storage/compiled-templates/app_1_landing_index.html:747
+#: storage/compiled-templates/app_1_landing_index.html:777
+msgid "Free Supports"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:720
+#: storage/compiled-templates/app_1_landing_index.html:750
+#: storage/compiled-templates/app_1_landing_index.html:780
+msgid "Get Started"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:730
+msgid "Business"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:733
+msgid "79"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:760
+msgid "Ultimate"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:763
+msgid "109"
+msgstr ""
+
+msgid "Latest Posts"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:824
+msgid "Read more"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:861
+msgid "Contact Us"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:863
+msgid ""
+"Powerful and easy to use drag and drop website builder for blogs, "
+"presentation or ecommerce stores."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:867
+msgid ""
+"The html for sections blocks and components and this template are built "
+"using Bootsrap 5."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:872
+msgid "Email:"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:873
+msgid "hello@vvveb.com"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:876
+msgid "Phone:"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:877
+#: storage/compiled-templates/app_1_landing_contact.html:46
+#: storage/compiled-templates/app_1_landing_content_page.html:55
+#: storage/compiled-templates/app_1_landing_product_index.html:46
+#: storage/compiled-templates/app_1_landing_content_index.html:46
+msgid "+55 (111) 123 777"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:910
+#: storage/compiled-templates/app_1_landing_contact.html:505
+msgid "Submit"
+msgstr ""
+
+msgid "Terms and conditions"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:956
+#: storage/compiled-templates/app_1_landing_contact.html:551
+#: storage/compiled-templates/app_1_landing_content_page.html:486
+#: storage/compiled-templates/app_1_landing_product_index.html:691
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:505
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:509
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:514
+#: storage/compiled-templates/app_1_landing_content_index.html:750
+msgid "|"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:960
+#: storage/compiled-templates/app_1_landing_contact.html:555
+#: storage/compiled-templates/app_1_landing_content_page.html:490
+#: storage/compiled-templates/app_1_landing_product_index.html:695
+#: storage/compiled-templates/app_1_landing_content_index.html:754
+msgid "&copy;"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:960
+#: storage/compiled-templates/app_1_landing_contact.html:555
+#: storage/compiled-templates/app_1_landing_content_page.html:490
+#: storage/compiled-templates/app_1_landing_product_index.html:695
+#: storage/compiled-templates/app_1_landing_content_index.html:754
+msgid "2022"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_index.html:961
+#: storage/compiled-templates/app_1_landing_contact.html:556
+#: storage/compiled-templates/app_1_landing_content_page.html:491
+#: storage/compiled-templates/app_1_landing_product_index.html:696
+#: storage/compiled-templates/admin_1_default_settings_settings.html:492
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1539
+#: storage/compiled-templates/app_1_landing_content_index.html:755
+msgid "."
+msgstr ""
+
+msgid "Powered by"
+msgstr ""
+
+msgid "Product was added to cart."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_contact.html:9
+msgid "Vvveb - Contact form"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_contact.html:52
+#: storage/compiled-templates/app_1_landing_content_page.html:61
+#: storage/compiled-templates/app_1_landing_product_index.html:52
+#: storage/compiled-templates/app_1_landing_content_index.html:52
+msgid "contact@mysite.com"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:16
+msgid "Vvveb - Cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:305
+#: config/admin-menu.php:719
+msgid "Cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:313
+msgid "Clear old cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:319
+msgid "Clear all cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:340
+msgid "Frontend assets cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:343
+#: storage/compiled-templates/admin_1_default_settings_settings.html:771
+msgid "7"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:349
+#: storage/compiled-templates/admin_1_default_tools_cache.html:354
+#: storage/compiled-templates/admin_1_default_tools_cache.html:390
+#: storage/compiled-templates/admin_1_default_tools_cache.html:395
+#: storage/compiled-templates/admin_1_default_tools_cache.html:430
+#: storage/compiled-templates/admin_1_default_tools_cache.html:435
+#: storage/compiled-templates/admin_1_default_tools_cache.html:471
+#: storage/compiled-templates/admin_1_default_tools_cache.html:476
+#: storage/compiled-templates/admin_1_default_index.html:403
+#: storage/compiled-templates/admin_1_default_index.html:439
+#: storage/compiled-templates/admin_1_default_index.html:474
+#: storage/compiled-templates/admin_1_default_index.html:479
+#: storage/compiled-templates/admin_1_default_index.html:509
+msgid "0"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:349
+#: storage/compiled-templates/admin_1_default_tools_cache.html:390
+#: storage/compiled-templates/admin_1_default_tools_cache.html:430
+#: storage/compiled-templates/admin_1_default_tools_cache.html:471
+msgid "Javascript files"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:354
+#: storage/compiled-templates/admin_1_default_tools_cache.html:395
+#: storage/compiled-templates/admin_1_default_tools_cache.html:435
+#: storage/compiled-templates/admin_1_default_tools_cache.html:476
+msgid "CSS Stylesheets"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:362
+#: storage/compiled-templates/admin_1_default_tools_cache.html:403
+#: storage/compiled-templates/admin_1_default_tools_cache.html:443
+#: storage/compiled-templates/admin_1_default_tools_cache.html:484
+msgid "Clear cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:381
+msgid "Compiled templates"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:384
+msgid "37"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:421
+msgid "Database"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:424
+#: storage/compiled-templates/admin_1_default_tools_cache.html:465
+#: storage/compiled-templates/admin_1_default_settings_settings.html:769
+#: storage/compiled-templates/app_1_landing_content_index.html:535
+#: storage/compiled-templates/admin_1_default_index.html:514
+msgid "5"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_tools_cache.html:462
+msgid "Full page cache"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:16
+msgid "Vvveb - Edit product"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:303
+#: storage/compiled-templates/admin_1_default_index.html:830
+#: storage/compiled-templates/admin_1_default_product_products.html:523
+msgid "Product"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:313
+msgid "Product list"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:317
+msgid "&nbsp; Save product"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:409
+#: storage/compiled-templates/admin_1_default_content_post.html:412
+#: storage/compiled-templates/admin_1_default_settings_settings.html:394
+#: storage/compiled-templates/admin_1_default_settings_settings.html:454
+#: config/custom-post-menu.php:70
+msgid "General"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:412
+msgid "Data"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:415
+msgid "Links"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:423
+msgid "Image"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:450
+#: storage/compiled-templates/admin_1_default_content_posts.html:330
+#: storage/compiled-templates/admin_1_default_product_products.html:330
+msgid "Product Name"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:457
+msgid "Product Url"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:463
+msgid "Product Slug"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:471
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:457
+msgid "Description"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:474
+#: storage/compiled-templates/admin_1_default_content_post.html:469
+msgid "&nbsp; Open in Page Editor"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:497
+msgid "SKU"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:505
+msgid "UPC"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:511
+msgid "EAN"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:519
+msgid "JAN"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:525
+msgid "ISBN"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:533
+msgid "MPN"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:538
+msgid "Location"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:548
+msgid "Tax Class"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:551
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1591
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1748
+msgid "--- None ---"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:552
+msgid "Taxable Goods"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:553
+msgid "Downloadable Products"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:563
+msgid "Minimum Quantity"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:570
+msgid ""
+"Subtract\n"
+" Stock"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:574
+#: storage/compiled-templates/admin_1_default_product_product.html:597
+#: storage/compiled-templates/admin_1_default_product_product.html:846
+#: storage/compiled-templates/admin_1_default_product_product.html:882
+#: storage/compiled-templates/admin_1_default_product_product.html:931
+#: storage/compiled-templates/admin_1_default_product_product.html:980
+#: storage/compiled-templates/admin_1_default_product_product.html:1029
+#: storage/compiled-templates/admin_1_default_product_product.html:1090
+#: storage/compiled-templates/admin_1_default_product_product.html:1125
+#: storage/compiled-templates/admin_1_default_product_product.html:1173
+#: storage/compiled-templates/admin_1_default_product_product.html:1221
+#: storage/compiled-templates/admin_1_default_product_product.html:1269
+#: storage/compiled-templates/admin_1_default_product_product.html:1330
+#: storage/compiled-templates/admin_1_default_product_product.html:1352
+#: storage/compiled-templates/admin_1_default_product_product.html:1386
+#: storage/compiled-templates/admin_1_default_product_product.html:1433
+#: storage/compiled-templates/admin_1_default_product_product.html:1480
+#: storage/compiled-templates/admin_1_default_product_product.html:1540
+#: storage/compiled-templates/admin_1_default_product_product.html:1562
+#: storage/compiled-templates/admin_1_default_product_product.html:1591
+#: storage/compiled-templates/admin_1_default_product_product.html:1613
+#: storage/compiled-templates/admin_1_default_product_product.html:1642
+#: storage/compiled-templates/admin_1_default_settings_settings.html:904
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1564
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1578
+msgid "Yes"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:575
+#: storage/compiled-templates/admin_1_default_product_product.html:602
+#: storage/compiled-templates/admin_1_default_product_product.html:847
+#: storage/compiled-templates/admin_1_default_product_product.html:884
+#: storage/compiled-templates/admin_1_default_product_product.html:933
+#: storage/compiled-templates/admin_1_default_product_product.html:982
+#: storage/compiled-templates/admin_1_default_product_product.html:1031
+#: storage/compiled-templates/admin_1_default_product_product.html:1091
+#: storage/compiled-templates/admin_1_default_product_product.html:1127
+#: storage/compiled-templates/admin_1_default_product_product.html:1174
+#: storage/compiled-templates/admin_1_default_product_product.html:1222
+#: storage/compiled-templates/admin_1_default_product_product.html:1271
+#: storage/compiled-templates/admin_1_default_product_product.html:1331
+#: storage/compiled-templates/admin_1_default_product_product.html:1353
+#: storage/compiled-templates/admin_1_default_product_product.html:1388
+#: storage/compiled-templates/admin_1_default_product_product.html:1435
+#: storage/compiled-templates/admin_1_default_product_product.html:1482
+#: storage/compiled-templates/admin_1_default_product_product.html:1541
+#: storage/compiled-templates/admin_1_default_product_product.html:1563
+#: storage/compiled-templates/admin_1_default_product_product.html:1592
+#: storage/compiled-templates/admin_1_default_product_product.html:1614
+#: storage/compiled-templates/admin_1_default_product_product.html:1643
+#: storage/compiled-templates/admin_1_default_settings_settings.html:907
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1567
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1581
+msgid "No"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:579
+msgid "Out Of Stock Status"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:583
+msgid "2-3 Days"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:584
+msgid "In Stock"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:585
+msgid "Out Of Stock"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:586
+msgid "Pre-Order"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:591
+msgid "Requires Shipping"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:609
+msgid "SEO URL"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:616
+msgid ""
+"Date\n"
+" Available"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:630
+msgid ""
+"Dimensions (L x W x\n"
+" H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:645
+msgid ""
+"Length\n"
+" Class"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:649
+#: storage/compiled-templates/admin_1_default_settings_settings.html:917
+msgid "Centimeter"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:650
+#: storage/compiled-templates/admin_1_default_settings_settings.html:918
+msgid "Millimeter"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:651
+#: storage/compiled-templates/admin_1_default_settings_settings.html:919
+msgid "Inch"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:656
+#: storage/compiled-templates/admin_1_default_product_product.html:860
+#: storage/compiled-templates/admin_1_default_product_product.html:1104
+#: storage/compiled-templates/admin_1_default_product_product.html:1366
+msgid "Weight"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:661
+msgid ""
+"Weight\n"
+" Class"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:665
+#: storage/compiled-templates/admin_1_default_settings_settings.html:927
+msgid "Kilogram"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:666
+#: storage/compiled-templates/admin_1_default_settings_settings.html:928
+msgid "Gram"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:667
+#: storage/compiled-templates/admin_1_default_settings_settings.html:929
+msgid "Pound"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:668
+#: storage/compiled-templates/admin_1_default_settings_settings.html:930
+msgid "Ounce"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:680
+msgid "Sort Order"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:691
+msgid "Manufacturer"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:713
+msgid "Related Products"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:730
+msgid "Attribute"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:731
+#: storage/compiled-templates/admin_1_default_product_product.html:802
+msgid "Text"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:747
+msgid "100mhz"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:778
+msgid "Checkbox"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:784
+msgid "Select"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:790
+msgid "Textarea"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:796
+msgid "Radio"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:814
+msgid "File"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:820
+msgid "Time"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:826
+msgid "Date & Time"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:843
+#: storage/compiled-templates/admin_1_default_product_product.html:1087
+#: storage/compiled-templates/admin_1_default_product_product.html:1327
+#: storage/compiled-templates/admin_1_default_product_product.html:1349
+#: storage/compiled-templates/admin_1_default_product_product.html:1537
+#: storage/compiled-templates/admin_1_default_product_product.html:1559
+#: storage/compiled-templates/admin_1_default_product_product.html:1588
+#: storage/compiled-templates/admin_1_default_product_product.html:1610
+#: storage/compiled-templates/admin_1_default_product_product.html:1639
+msgid "Required"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:855
+#: storage/compiled-templates/admin_1_default_product_product.html:1099
+#: storage/compiled-templates/admin_1_default_product_product.html:1361
+msgid "Option Value"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:857
+#: storage/compiled-templates/admin_1_default_product_product.html:1101
+#: storage/compiled-templates/admin_1_default_product_product.html:1363
+msgid "Subtract Stock"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:859
+#: storage/compiled-templates/admin_1_default_product_product.html:1103
+#: storage/compiled-templates/admin_1_default_product_product.html:1365
+#: storage/compiled-templates/admin_1_default_product_product.html:1961
+msgid "Points"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:868
+msgid ""
+"Checkbox\n"
+" 1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:871
+#: storage/compiled-templates/admin_1_default_product_product.html:967
+#: storage/compiled-templates/admin_1_default_product_product.html:1016
+#: storage/compiled-templates/admin_1_default_product_product.html:1076
+msgid "Checkbox 2"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:872
+#: storage/compiled-templates/admin_1_default_product_product.html:921
+#: storage/compiled-templates/admin_1_default_product_product.html:1017
+#: storage/compiled-templates/admin_1_default_product_product.html:1077
+msgid "Checkbox 3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:873
+#: storage/compiled-templates/admin_1_default_product_product.html:922
+#: storage/compiled-templates/admin_1_default_product_product.html:971
+#: storage/compiled-templates/admin_1_default_product_product.html:1078
+msgid "Checkbox 4"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:889
+#: storage/compiled-templates/admin_1_default_product_product.html:896
+#: storage/compiled-templates/admin_1_default_product_product.html:903
+#: storage/compiled-templates/admin_1_default_product_product.html:938
+#: storage/compiled-templates/admin_1_default_product_product.html:945
+#: storage/compiled-templates/admin_1_default_product_product.html:952
+#: storage/compiled-templates/admin_1_default_product_product.html:987
+#: storage/compiled-templates/admin_1_default_product_product.html:994
+#: storage/compiled-templates/admin_1_default_product_product.html:1001
+#: storage/compiled-templates/admin_1_default_product_product.html:1036
+#: storage/compiled-templates/admin_1_default_product_product.html:1043
+#: storage/compiled-templates/admin_1_default_product_product.html:1050
+#: storage/compiled-templates/admin_1_default_product_product.html:1132
+#: storage/compiled-templates/admin_1_default_product_product.html:1139
+#: storage/compiled-templates/admin_1_default_product_product.html:1146
+#: storage/compiled-templates/admin_1_default_product_product.html:1180
+#: storage/compiled-templates/admin_1_default_product_product.html:1187
+#: storage/compiled-templates/admin_1_default_product_product.html:1194
+#: storage/compiled-templates/admin_1_default_product_product.html:1228
+#: storage/compiled-templates/admin_1_default_product_product.html:1235
+#: storage/compiled-templates/admin_1_default_product_product.html:1242
+#: storage/compiled-templates/admin_1_default_product_product.html:1276
+#: storage/compiled-templates/admin_1_default_product_product.html:1283
+#: storage/compiled-templates/admin_1_default_product_product.html:1290
+#: storage/compiled-templates/admin_1_default_product_product.html:1393
+#: storage/compiled-templates/admin_1_default_product_product.html:1400
+#: storage/compiled-templates/admin_1_default_product_product.html:1407
+#: storage/compiled-templates/admin_1_default_product_product.html:1440
+#: storage/compiled-templates/admin_1_default_product_product.html:1447
+#: storage/compiled-templates/admin_1_default_product_product.html:1454
+#: storage/compiled-templates/admin_1_default_product_product.html:1487
+#: storage/compiled-templates/admin_1_default_product_product.html:1494
+#: storage/compiled-templates/admin_1_default_product_product.html:1501
+msgid "+"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:890
+#: storage/compiled-templates/admin_1_default_product_product.html:897
+#: storage/compiled-templates/admin_1_default_product_product.html:904
+#: storage/compiled-templates/admin_1_default_product_product.html:939
+#: storage/compiled-templates/admin_1_default_product_product.html:946
+#: storage/compiled-templates/admin_1_default_product_product.html:953
+#: storage/compiled-templates/admin_1_default_product_product.html:988
+#: storage/compiled-templates/admin_1_default_product_product.html:995
+#: storage/compiled-templates/admin_1_default_product_product.html:1002
+#: storage/compiled-templates/admin_1_default_product_product.html:1037
+#: storage/compiled-templates/admin_1_default_product_product.html:1044
+#: storage/compiled-templates/admin_1_default_product_product.html:1051
+#: storage/compiled-templates/admin_1_default_product_product.html:1133
+#: storage/compiled-templates/admin_1_default_product_product.html:1140
+#: storage/compiled-templates/admin_1_default_product_product.html:1147
+#: storage/compiled-templates/admin_1_default_product_product.html:1181
+#: storage/compiled-templates/admin_1_default_product_product.html:1188
+#: storage/compiled-templates/admin_1_default_product_product.html:1195
+#: storage/compiled-templates/admin_1_default_product_product.html:1229
+#: storage/compiled-templates/admin_1_default_product_product.html:1236
+#: storage/compiled-templates/admin_1_default_product_product.html:1243
+#: storage/compiled-templates/admin_1_default_product_product.html:1277
+#: storage/compiled-templates/admin_1_default_product_product.html:1284
+#: storage/compiled-templates/admin_1_default_product_product.html:1291
+#: storage/compiled-templates/admin_1_default_product_product.html:1394
+#: storage/compiled-templates/admin_1_default_product_product.html:1401
+#: storage/compiled-templates/admin_1_default_product_product.html:1408
+#: storage/compiled-templates/admin_1_default_product_product.html:1441
+#: storage/compiled-templates/admin_1_default_product_product.html:1448
+#: storage/compiled-templates/admin_1_default_product_product.html:1455
+#: storage/compiled-templates/admin_1_default_product_product.html:1488
+#: storage/compiled-templates/admin_1_default_product_product.html:1495
+#: storage/compiled-templates/admin_1_default_product_product.html:1502
+msgid "-"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:917
+#: storage/compiled-templates/admin_1_default_product_product.html:966
+#: storage/compiled-templates/admin_1_default_product_product.html:1015
+#: storage/compiled-templates/admin_1_default_product_product.html:1075
+msgid "Checkbox 1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:918
+msgid ""
+"Checkbox\n"
+" 2"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:968
+msgid ""
+"Checkbox\n"
+" 3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1018
+msgid ""
+"Checkbox\n"
+" 4"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1112
+#: storage/compiled-templates/admin_1_default_product_product.html:1160
+#: storage/compiled-templates/admin_1_default_product_product.html:1208
+#: storage/compiled-templates/admin_1_default_product_product.html:1256
+#: storage/compiled-templates/admin_1_default_product_product.html:1315
+#: storage/compiled-templates/app_1_landing_product_index.html:504
+msgid "Red"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1114
+#: storage/compiled-templates/admin_1_default_product_product.html:1161
+#: storage/compiled-templates/admin_1_default_product_product.html:1209
+#: storage/compiled-templates/admin_1_default_product_product.html:1257
+#: storage/compiled-templates/admin_1_default_product_product.html:1316
+#: storage/compiled-templates/app_1_landing_product_index.html:512
+msgid "Blue"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1115
+#: storage/compiled-templates/admin_1_default_product_product.html:1163
+#: storage/compiled-templates/admin_1_default_product_product.html:1210
+#: storage/compiled-templates/admin_1_default_product_product.html:1258
+#: storage/compiled-templates/admin_1_default_product_product.html:1317
+#: storage/compiled-templates/app_1_landing_product_index.html:520
+msgid "Green"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1116
+#: storage/compiled-templates/admin_1_default_product_product.html:1164
+#: storage/compiled-templates/admin_1_default_product_product.html:1212
+#: storage/compiled-templates/admin_1_default_product_product.html:1259
+#: storage/compiled-templates/admin_1_default_product_product.html:1318
+#: storage/compiled-templates/app_1_landing_product_index.html:528
+msgid "Yellow"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1336
+#: storage/compiled-templates/admin_1_default_product_product.html:1546
+#: storage/compiled-templates/admin_1_default_product_product.html:1568
+#: storage/compiled-templates/admin_1_default_product_product.html:1597
+#: storage/compiled-templates/admin_1_default_product_product.html:1619
+#: storage/compiled-templates/admin_1_default_product_product.html:1648
+msgid ""
+"Option\n"
+" Value"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1374
+#: storage/compiled-templates/admin_1_default_product_product.html:1421
+#: storage/compiled-templates/admin_1_default_product_product.html:1468
+#: storage/compiled-templates/admin_1_default_product_product.html:1526
+msgid "Small"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1376
+#: storage/compiled-templates/admin_1_default_product_product.html:1422
+#: storage/compiled-templates/admin_1_default_product_product.html:1469
+#: storage/compiled-templates/admin_1_default_product_product.html:1527
+msgid "Medium"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1377
+#: storage/compiled-templates/admin_1_default_product_product.html:1424
+#: storage/compiled-templates/admin_1_default_product_product.html:1470
+#: storage/compiled-templates/admin_1_default_product_product.html:1528
+msgid "Large"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1672
+msgid "Recurring Profile"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1673
+#: storage/compiled-templates/admin_1_default_product_product.html:1699
+#: storage/compiled-templates/admin_1_default_product_product.html:1853
+#: storage/compiled-templates/admin_1_default_product_product.html:1971
+msgid "Customer Group"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1701
+#: storage/compiled-templates/admin_1_default_product_product.html:1854
+msgid "Priority"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1703
+#: storage/compiled-templates/admin_1_default_product_product.html:1856
+msgid "Date Start"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1704
+#: storage/compiled-templates/admin_1_default_product_product.html:1857
+msgid "Date End"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1712
+#: storage/compiled-templates/admin_1_default_product_product.html:1753
+#: storage/compiled-templates/admin_1_default_product_product.html:1794
+#: storage/compiled-templates/admin_1_default_product_product.html:1865
+#: storage/compiled-templates/admin_1_default_product_product.html:1977
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1749
+msgid "Default"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1930
+msgid "Clear"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:1972
+msgid "Reward Points"
+msgstr ""
+
+msgid "Featured Media"
+msgstr ""
+
+msgid "Set featured media"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:2035
+msgid "Product 10"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:2050
+msgid "Item 135"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:2065
+#: storage/compiled-templates/admin_1_default_content_post.html:598
+msgid "Template"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_product.html:2076
+#: storage/compiled-templates/admin_1_default_content_post.html:609
+msgid "-- Default template --"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:16
+msgid "Vvveb - Edit post"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:314
+msgid "list"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:448
+#: storage/compiled-templates/admin_1_default_content_posts.html:528
+msgid "Name"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:454
+msgid "Post Url"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:459
+msgid "Slug"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:513
+msgid "options"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_post.html:520
+msgid "Publish date"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:9
+msgid "Landing - Product listing"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:413
+#: storage/compiled-templates/app_1_landing_product_index.html:422
+msgid "Equipment"
+msgstr ""
+
+msgid "Shop"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:420
+msgid "Category"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:431
+#: storage/compiled-templates/app_1_landing_product_index.html:437
+msgid "Price high to low"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:442
+msgid "Price low to high"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:447
+msgid "Popularity"
+msgstr ""
+
+msgid "Sales"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:467
+msgid "Brands"
+msgstr ""
+
+msgid "Mango"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:481
+msgid "Assos"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:489
+msgid "Brand name"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_product_index.html:498
+msgid "Color"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:16
+msgid "Vvveb - Plugins"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:302
+msgid ""
+"&ensp;\n"
+" Plugins"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:322
+msgid "&nbsp; Upload plugin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:331
+msgid "&nbsp; Install plugin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:415
+msgid "Activating plugin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:447
+#: storage/compiled-templates/admin_1_default_index.html:831
+msgid "Thumb"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:451
+msgid "Extension"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:504
+msgid "Plugin homepage"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:508
+msgid "Support"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:513
+msgid "Changelog"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:518
+msgid "Version"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:521
+#: storage/compiled-templates/app_1_landing_content_index.html:442
+msgid "By"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:536
+msgid "Deactivate"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:550
+msgid "Global"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:554
+msgid "Activate on all sites"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_plugin_plugins.html:560
+msgid "Deactivate on all sites"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:16
+msgid "Vvveb - Users"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:316
+#: storage/compiled-templates/admin_1_default_user_users.html:584
+msgid "&nbsp; Add user"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:329
+msgid "user Name"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:333
+#: storage/compiled-templates/admin_1_default_content_posts.html:364
+#: storage/compiled-templates/admin_1_default_product_products.html:364
+msgid "Product 1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:354
+msgid "user 15"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:357
+msgid "user 3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:360
+msgid "user 21"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:363
+msgid "user 1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:366
+msgid "user 14"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:519
+msgid "User"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:520
+msgid "Email"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_user_users.html:579
+msgid "No users to display!"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:16
+msgid "Vvveb - Settings"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:304
+msgid ""
+"&ensp;\n"
+" Settings"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:310
+msgid "&nbsp; Save settings"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:398
+msgid "Store"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:401
+msgid "Local"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:405
+msgid "Media settings"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:409
+#: storage/compiled-templates/admin_1_default_settings_settings.html:459
+msgid "Mail"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:425
+msgid "Site title"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:432
+msgid "Site description"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:439
+msgid "Administration Email Address"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:456
+msgid "Mail Engine"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:460
+#: storage/compiled-templates/admin_1_default_settings_settings.html:474
+msgid "SMTP"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:462
+msgid "Only choose 'Mail' unless your host has disabled the php mail function."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:466
+msgid "Mail Parameters"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:469
+msgid ""
+"When using 'Mail', additional mail parameters can be added here (e.g. -f "
+"email@storeaddress.com)."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:476
+msgid "Hostname"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:479
+msgid ""
+"Add 'tls://' or 'ssl://' prefix if security connection is required. (e.g. "
+"tls://smtp.gmail.com, ssl://smtp.gmail.com)."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:483
+msgid "Username"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:492
+msgid ""
+"For Gmail you might need to setup an application specific password here:"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:492
+msgid "https://security.google.com/settings/security/apppasswords"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:496
+msgid "Port"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:502
+msgid "Timeout"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:509
+msgid "Mail Alerts"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:511
+msgid "Alert Mail"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:516
+msgid "Register"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:520
+msgid "Affiliate"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:528
+#: config/custom-product-menu.php:102
+msgid "Reviews"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:531
+msgid ""
+"Select which features you would like to receive an alert email on when a "
+"customer uses them."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:535
+msgid "Additional Alert Mail"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:538
+msgid ""
+"Any additional emails you want to receive the alert email, in addition to "
+"the main store email. (comma separated)."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:547
+msgid "Image Sizes"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:549
+msgid "Category Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:563
+msgid "Product Image Thumb Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:577
+msgid "Product Image Popup Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:591
+msgid "Product Image List Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:605
+msgid "Additional Product Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:619
+msgid "Related Product Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:633
+msgid "Compare Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:647
+msgid "Wish List Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:661
+msgid "Cart Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:675
+msgid "Store Image Size (W x H)"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:694
+msgid "Address"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:700
+msgid "Geocode"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:707
+msgid "Telephone"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:719
+msgid "Default post comments"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:724
+msgid "Allow comments"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:727
+msgid "Individual posts may override these settings."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:731
+msgid "Anonymous comments"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:735
+msgid "Allow comments only from logged in users"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:740
+msgid "Automatically close comments"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:747
+msgid "On posts older than"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:753
+msgid "days"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:761
+msgid "Nested comments level"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:766
+#: storage/compiled-templates/app_1_landing_content_index.html:526
+msgid "2"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:767
+#: storage/compiled-templates/app_1_landing_content_index.html:529
+msgid "3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:768
+#: storage/compiled-templates/app_1_landing_content_index.html:532
+msgid "4"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:770
+msgid "6"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:772
+msgid "8"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:773
+msgid "9"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:774
+#: storage/compiled-templates/admin_1_default_product_products.html:580
+msgid "10"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:778
+msgid "levels deep"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:785
+msgid "Comments pagination"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:791
+msgid "Break comments into pages with"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:800
+msgid "top level comments per page and the"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:806
+msgid "last"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:807
+msgid "first"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:812
+msgid "page displayed by default"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:821
+msgid "Comments sort order"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:824
+msgid "older"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:825
+msgid "newer"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:840
+msgid "Country"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:843
+msgid "Aaland Islands"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:844
+msgid "Afghanistan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:849
+msgid "Region / State"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:852
+msgid "--- Please Select ---"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:853
+msgid "Aberdeen"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:854
+msgid "Aberdeenshire"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:860
+msgid "Language"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:863
+#: storage/compiled-templates/admin_1_default_settings_settings.html:871
+msgid "English"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:868
+msgid "Administration Language"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:876
+msgid "Currency"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:879
+msgid "Australian Dollar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:880
+msgid "Chinese Yuan Renminbi"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:881
+msgid "Euro"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:882
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:883
+msgid "Indian Rupee"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:884
+msgid "Pound Sterling"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:885
+msgid "Russian Ruble"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:886
+msgid "US Dollar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:888
+msgid ""
+"Change the default currency. Clear your browser cache to see the change and "
+"reset your existing cookie."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:892
+msgid "Currency Rate Engine"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:895
+msgid "European Central Bank Currency Converter"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:900
+msgid "Auto Update Currency"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:910
+msgid "Set your store to automatically update currencies daily."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:914
+msgid "Length Class"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:924
+msgid "Weight Class"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:937
+msgid "Timezone"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:943
+msgid "Abidjan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:944
+msgid "Accra"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:945
+msgid "Addis Ababa"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:946
+msgid "Algiers"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:947
+msgid "Asmara"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:948
+msgid "Bamako"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:949
+msgid "Bangui"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:950
+msgid "Banjul"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:951
+msgid "Bissau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:952
+msgid "Blantyre"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:953
+msgid "Brazzaville"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:954
+msgid "Bujumbura"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:955
+msgid "Cairo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:956
+msgid "Casablanca"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:957
+msgid "Ceuta"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:958
+msgid "Conakry"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:959
+msgid "Dakar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:960
+msgid "Dar es Salaam"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:961
+msgid "Djibouti"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:962
+msgid "Douala"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:963
+msgid "El Aaiun"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:964
+msgid "Freetown"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:965
+msgid "Gaborone"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:966
+msgid "Harare"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:967
+msgid "Johannesburg"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:968
+msgid "Juba"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:969
+msgid "Kampala"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:970
+msgid "Khartoum"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:971
+msgid "Kigali"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:972
+msgid "Kinshasa"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:973
+msgid "Lagos"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:974
+msgid "Libreville"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:975
+msgid "Lome"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:976
+msgid "Luanda"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:977
+msgid "Lubumbashi"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:978
+msgid "Lusaka"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:979
+msgid "Malabo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:980
+msgid "Maputo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:981
+msgid "Maseru"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:982
+msgid "Mbabane"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:983
+msgid "Mogadishu"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:984
+msgid "Monrovia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:985
+msgid "Nairobi"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:986
+msgid "Ndjamena"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:987
+msgid "Niamey"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:988
+msgid "Nouakchott"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:989
+msgid "Ouagadougou"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:990
+msgid "Porto-Novo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:991
+msgid "Sao Tome"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:992
+msgid "Tripoli"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:993
+msgid "Tunis"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:994
+msgid "Windhoek"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:997
+msgid "Adak"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:998
+msgid "Anchorage"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:999
+msgid "Anguilla"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1000
+msgid "Antigua"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1001
+msgid "Araguaina"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1002
+msgid "Argentina - Buenos Aires"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1003
+msgid "Argentina - Catamarca"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1004
+msgid "Argentina - Cordoba"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1005
+msgid "Argentina - Jujuy"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1006
+msgid "Argentina - La Rioja"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1007
+msgid "Argentina - Mendoza"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1008
+msgid "Argentina - Rio Gallegos"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1009
+msgid "Argentina - Salta"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1010
+msgid "Argentina - San Juan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1011
+msgid "Argentina - San Luis"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1012
+msgid "Argentina - Tucuman"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1013
+msgid "Argentina - Ushuaia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1014
+msgid "Aruba"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1015
+msgid "Asuncion"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1016
+msgid "Atikokan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1017
+msgid "Bahia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1018
+msgid "Bahia Banderas"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1019
+msgid "Barbados"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1020
+msgid "Belem"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1021
+msgid "Belize"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1022
+msgid "Blanc-Sablon"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1023
+msgid "Boa Vista"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1024
+msgid "Bogota"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1025
+msgid "Boise"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1026
+msgid "Cambridge Bay"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1027
+msgid "Campo Grande"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1028
+msgid "Cancun"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1029
+msgid "Caracas"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1030
+msgid "Cayenne"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1031
+msgid "Cayman"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1032
+msgid "Chicago"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1033
+msgid "Chihuahua"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1034
+msgid "Costa Rica"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1035
+msgid "Creston"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1036
+msgid "Cuiaba"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1037
+msgid "Curacao"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1038
+msgid "Danmarkshavn"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1039
+msgid "Dawson"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1040
+msgid "Dawson Creek"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1041
+msgid "Denver"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1042
+msgid "Detroit"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1043
+msgid "Dominica"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1044
+msgid "Edmonton"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1045
+msgid "Eirunepe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1046
+msgid "El Salvador"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1047
+msgid "Fortaleza"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1048
+msgid "Fort Nelson"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1049
+msgid "Glace Bay"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1050
+msgid "Goose Bay"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1051
+msgid "Grand Turk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1052
+msgid "Grenada"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1053
+msgid "Guadeloupe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1054
+msgid "Guatemala"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1055
+msgid "Guayaquil"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1056
+msgid "Guyana"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1057
+msgid "Halifax"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1058
+msgid "Havana"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1059
+msgid "Hermosillo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1060
+msgid "Indiana - Indianapolis"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1061
+msgid "Indiana - Knox"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1062
+msgid "Indiana - Marengo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1063
+msgid "Indiana - Petersburg"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1064
+msgid "Indiana - Tell City"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1065
+msgid "Indiana - Vevay"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1066
+msgid "Indiana - Vincennes"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1067
+msgid "Indiana - Winamac"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1068
+msgid "Inuvik"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1069
+msgid "Iqaluit"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1070
+msgid "Jamaica"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1071
+msgid "Juneau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1072
+msgid "Kentucky - Louisville"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1073
+msgid "Kentucky - Monticello"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1074
+msgid "Kralendijk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1075
+msgid "La Paz"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1076
+msgid "Lima"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1077
+msgid "Los Angeles"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1078
+msgid "Lower Princes"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1079
+msgid "Maceio"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1080
+msgid "Managua"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1081
+msgid "Manaus"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1082
+msgid "Marigot"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1083
+msgid "Martinique"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1084
+msgid "Matamoros"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1085
+msgid "Mazatlan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1086
+msgid "Menominee"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1087
+msgid "Merida"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1088
+msgid "Metlakatla"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1089
+msgid "Mexico City"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1090
+msgid "Miquelon"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1091
+msgid "Moncton"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1092
+msgid "Monterrey"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1093
+msgid "Montevideo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1094
+msgid "Montserrat"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1095
+msgid "Nassau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1096
+msgid "New York"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1097
+msgid "Nome"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1098
+msgid "Noronha"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1099
+msgid "North Dakota - Beulah"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1100
+msgid "North Dakota - Center"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1101
+msgid "North Dakota - New Salem"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1102
+msgid "Nuuk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1103
+msgid "Ojinaga"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1104
+msgid "Panama"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1105
+msgid "Pangnirtung"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1106
+msgid "Paramaribo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1107
+msgid "Phoenix"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1108
+msgid "Port-au-Prince"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1109
+msgid "Port of Spain"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1110
+msgid "Porto Velho"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1111
+msgid "Puerto Rico"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1112
+msgid "Punta Arenas"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1113
+msgid "Rankin Inlet"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1114
+msgid "Recife"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1115
+msgid "Regina"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1116
+msgid "Resolute"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1117
+msgid "Rio Branco"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1118
+msgid "Santarem"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1119
+msgid "Santiago"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1120
+msgid "Santo Domingo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1121
+msgid "Sao Paulo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1122
+msgid "Scoresbysund"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1123
+msgid "Sitka"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1124
+msgid "St Barthelemy"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1125
+msgid "St Johns"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1126
+msgid "St Kitts"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1127
+msgid "St Lucia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1128
+msgid "St Thomas"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1129
+msgid "St Vincent"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1130
+msgid "Swift Current"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1131
+msgid "Tegucigalpa"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1132
+msgid "Thule"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1133
+msgid "Tijuana"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1134
+msgid "Toronto"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1135
+msgid "Tortola"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1136
+msgid "Vancouver"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1137
+msgid "Whitehorse"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1138
+msgid "Winnipeg"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1139
+msgid "Yakutat"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1140
+msgid "Yellowknife"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1143
+msgid "Casey"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1144
+msgid "Davis"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1145
+msgid "DumontDUrville"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1146
+msgid "Macquarie"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1147
+msgid "Mawson"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1148
+msgid "McMurdo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1149
+msgid "Palmer"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1150
+msgid "Rothera"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1151
+msgid "Syowa"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1152
+msgid "Troll"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1153
+msgid "Vostok"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1156
+msgid "Longyearbyen"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1159
+msgid "Aden"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1160
+msgid "Almaty"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1161
+msgid "Amman"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1162
+msgid "Anadyr"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1163
+msgid "Aqtau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1164
+msgid "Aqtobe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1165
+msgid "Ashgabat"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1166
+msgid "Atyrau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1167
+msgid "Baghdad"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1168
+msgid "Bahrain"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1169
+msgid "Baku"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1170
+msgid "Bangkok"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1171
+msgid "Barnaul"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1172
+msgid "Beirut"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1173
+msgid "Bishkek"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1174
+msgid "Brunei"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1175
+msgid "Chita"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1176
+msgid "Choibalsan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1177
+msgid "Colombo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1178
+msgid "Damascus"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1179
+msgid "Dhaka"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1180
+msgid "Dili"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1181
+msgid "Dubai"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1182
+msgid "Dushanbe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1183
+msgid "Famagusta"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1184
+msgid "Gaza"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1185
+msgid "Hebron"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1186
+msgid "Ho Chi Minh"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1187
+msgid "Hong Kong"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1188
+msgid "Hovd"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1189
+msgid "Irkutsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1190
+msgid "Jakarta"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1191
+msgid "Jayapura"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1192
+msgid "Jerusalem"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1193
+msgid "Kabul"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1194
+msgid "Kamchatka"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1195
+msgid "Karachi"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1196
+msgid "Kathmandu"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1197
+msgid "Khandyga"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1198
+msgid "Kolkata"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1199
+msgid "Krasnoyarsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1200
+msgid "Kuala Lumpur"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1201
+msgid "Kuching"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1202
+msgid "Kuwait"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1203
+msgid "Macau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1204
+msgid "Magadan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1205
+msgid "Makassar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1206
+msgid "Manila"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1207
+msgid "Muscat"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1208
+msgid "Nicosia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1209
+msgid "Novokuznetsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1210
+msgid "Novosibirsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1211
+msgid "Omsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1212
+msgid "Oral"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1213
+msgid "Phnom Penh"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1214
+msgid "Pontianak"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1215
+msgid "Pyongyang"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1216
+msgid "Qatar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1217
+msgid "Qostanay"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1218
+msgid "Qyzylorda"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1219
+msgid "Riyadh"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1220
+msgid "Sakhalin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1221
+msgid "Samarkand"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1222
+msgid "Seoul"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1223
+msgid "Shanghai"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1224
+msgid "Singapore"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1225
+msgid "Srednekolymsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1226
+msgid "Taipei"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1227
+msgid "Tashkent"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1228
+msgid "Tbilisi"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1229
+msgid "Tehran"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1230
+msgid "Thimphu"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1231
+msgid "Tokyo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1232
+msgid "Tomsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1233
+msgid "Ulaanbaatar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1234
+msgid "Urumqi"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1235
+msgid "Ust-Nera"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1236
+msgid "Vientiane"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1237
+msgid "Vladivostok"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1238
+msgid "Yakutsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1239
+msgid "Yangon"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1240
+msgid "Yekaterinburg"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1241
+msgid "Yerevan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1244
+msgid "Azores"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1245
+msgid "Bermuda"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1246
+msgid "Canary"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1247
+msgid "Cape Verde"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1248
+msgid "Faroe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1249
+msgid "Madeira"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1250
+msgid "Reykjavik"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1251
+msgid "South Georgia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1252
+msgid "Stanley"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1253
+msgid "St Helena"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1256
+msgid "Adelaide"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1257
+msgid "Brisbane"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1258
+msgid "Broken Hill"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1259
+msgid "Darwin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1260
+msgid "Eucla"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1261
+msgid "Hobart"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1262
+msgid "Lindeman"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1263
+msgid "Lord Howe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1264
+msgid "Melbourne"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1265
+msgid "Perth"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1266
+msgid "Sydney"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1269
+msgid "Amsterdam"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1270
+msgid "Andorra"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1271
+msgid "Astrakhan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1272
+msgid "Athens"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1273
+msgid "Belgrade"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1274
+msgid "Berlin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1275
+msgid "Bratislava"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1276
+msgid "Brussels"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1277
+msgid "Bucharest"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1278
+msgid "Budapest"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1279
+msgid "Busingen"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1280
+msgid "Chisinau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1281
+msgid "Copenhagen"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1282
+msgid "Dublin"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1283
+msgid "Gibraltar"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1284
+msgid "Guernsey"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1285
+msgid "Helsinki"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1286
+msgid "Isle of Man"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1287
+msgid "Istanbul"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1288
+msgid "Jersey"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1289
+msgid "Kaliningrad"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1290
+msgid "Kirov"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1291
+msgid "Kyiv"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1292
+msgid "Lisbon"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1293
+msgid "Ljubljana"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1294
+msgid "London"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1295
+msgid "Luxembourg"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1296
+msgid "Madrid"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1297
+msgid "Malta"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1298
+msgid "Mariehamn"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1299
+msgid "Minsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1300
+msgid "Monaco"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1301
+msgid "Moscow"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1302
+msgid "Oslo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1303
+msgid "Paris"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1304
+msgid "Podgorica"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1305
+msgid "Prague"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1306
+msgid "Riga"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1307
+msgid "Rome"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1308
+msgid "Samara"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1309
+msgid "San Marino"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1310
+msgid "Sarajevo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1311
+msgid "Saratov"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1312
+msgid "Simferopol"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1313
+msgid "Skopje"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1314
+msgid "Sofia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1315
+msgid "Stockholm"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1316
+msgid "Tallinn"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1317
+msgid "Tirane"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1318
+msgid "Ulyanovsk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1319
+msgid "Vaduz"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1320
+msgid "Vatican"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1321
+msgid "Vienna"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1322
+msgid "Vilnius"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1323
+msgid "Volgograd"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1324
+msgid "Warsaw"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1325
+msgid "Zagreb"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1326
+msgid "Zurich"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1329
+msgid "Antananarivo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1330
+msgid "Chagos"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1331
+msgid "Christmas"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1332
+msgid "Cocos"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1333
+msgid "Comoro"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1334
+msgid "Kerguelen"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1335
+msgid "Mahe"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1336
+msgid "Maldives"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1337
+msgid "Mauritius"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1338
+msgid "Mayotte"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1339
+msgid "Reunion"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1342
+msgid "Apia"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1343
+msgid "Auckland"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1344
+msgid "Bougainville"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1345
+msgid "Chatham"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1346
+msgid "Chuuk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1347
+msgid "Easter"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1348
+msgid "Efate"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1349
+msgid "Fakaofo"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1350
+msgid "Fiji"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1351
+msgid "Funafuti"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1352
+msgid "Galapagos"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1353
+msgid "Gambier"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1354
+msgid "Guadalcanal"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1355
+msgid "Guam"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1356
+msgid "Honolulu"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1357
+msgid "Kanton"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1358
+msgid "Kiritimati"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1359
+msgid "Kosrae"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1360
+msgid "Kwajalein"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1361
+msgid "Majuro"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1362
+msgid "Marquesas"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1363
+msgid "Midway"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1364
+msgid "Nauru"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1365
+msgid "Niue"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1366
+msgid "Norfolk"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1367
+msgid "Noumea"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1368
+msgid "Pago Pago"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1369
+msgid "Palau"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1370
+msgid "Pitcairn"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1371
+msgid "Pohnpei"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1372
+msgid "Port Moresby"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1373
+msgid "Rarotonga"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1374
+msgid "Saipan"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1375
+msgid "Tahiti"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1376
+msgid "Tarawa"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1377
+msgid "Tongatapu"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1378
+msgid "Wake"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1379
+msgid "Wallis"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1382
+msgid "UTC"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1385
+msgid "UTC-12"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1386
+msgid "UTC-11:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1387
+msgid "UTC-11"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1388
+msgid "UTC-10:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1389
+msgid "UTC-10"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1390
+msgid "UTC-9:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1391
+msgid "UTC-9"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1392
+msgid "UTC-8:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1393
+msgid "UTC-8"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1394
+msgid "UTC-7:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1395
+msgid "UTC-7"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1396
+msgid "UTC-6:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1397
+msgid "UTC-6"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1398
+msgid "UTC-5:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1399
+msgid "UTC-5"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1400
+msgid "UTC-4:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1401
+msgid "UTC-4"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1402
+msgid "UTC-3:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1403
+msgid "UTC-3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1404
+msgid "UTC-2:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1405
+msgid "UTC-2"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1406
+msgid "UTC-1:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1407
+msgid "UTC-1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1408
+msgid "UTC-0:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1409
+msgid "UTC+0"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1410
+msgid "UTC+0:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1411
+msgid "UTC+1"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1412
+msgid "UTC+1:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1413
+msgid "UTC+2"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1414
+msgid "UTC+2:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1415
+msgid "UTC+3"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1416
+msgid "UTC+3:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1417
+msgid "UTC+4"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1418
+msgid "UTC+4:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1419
+msgid "UTC+5"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1420
+msgid "UTC+5:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1421
+msgid "UTC+5:45"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1422
+msgid "UTC+6"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1423
+msgid "UTC+6:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1424
+msgid "UTC+7"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1425
+msgid "UTC+7:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1426
+msgid "UTC+8"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1427
+msgid "UTC+8:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1428
+msgid "UTC+8:45"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1429
+msgid "UTC+9"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1430
+msgid "UTC+9:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1431
+msgid "UTC+10"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1432
+msgid "UTC+10:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1433
+msgid "UTC+11"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1434
+msgid "UTC+11:30"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1435
+msgid "UTC+12"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1436
+msgid "UTC+12:45"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1437
+msgid "UTC+13"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1438
+msgid "UTC+13:45"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1439
+msgid "UTC+14"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1447
+msgid "Date format"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1453
+msgid "Date Format"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1457
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1489
+msgid "November 12, 2022"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1458
+msgid "F j, Y"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1463
+msgid "2022-11-12"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1464
+msgid "Y-m-d"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1469
+msgid "11/12/2022"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1470
+msgid "m/d/Y"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1475
+msgid "12/11/2022"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1476
+msgid "d/m/Y"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1481
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1527
+msgid "Custom:"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1481
+msgid "enter a custom date format in the following field"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1484
+msgid "Custom date format:"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1488
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1534
+msgid "Preview:"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1499
+msgid "Time format"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1505
+msgid "Time Format"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1509
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1535
+msgid "9:45 am"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1510
+msgid "g:i a"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1515
+msgid "9:45 AM"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1516
+msgid "g:i A"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1521
+msgid "09:45"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1522
+msgid "H:i"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1527
+msgid "enter a custom time format in the following field"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1530
+msgid "Custom time format:"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1539
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1553
+msgid "Invoice Prefix"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1556
+msgid ""
+"Set the invoice prefix (e.g. INV-2011-00). Invoice IDs will start at 1 for "
+"each unique prefix."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1560
+msgid "Display Weight on Cart Page"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1570
+msgid "Show the cart weight on the cart page."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1574
+msgid "Guest Checkout"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1584
+msgid ""
+"Allow customers to checkout without creating an account. This will not be "
+"available when a downloadable product is in the shopping cart."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1588
+msgid "Checkout Terms"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1592
+msgid "About Us"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1593
+msgid "Delivery Information"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1595
+msgid "Terms & Conditions"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1597
+msgid "Forces people to agree to terms before a customer can checkout."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1601
+msgid "Order Status"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1604
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1627
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1677
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1726
+msgid "Canceled"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1605
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1630
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1680
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1727
+msgid "Canceled Reversal"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1606
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1633
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1683
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1728
+msgid "Chargeback"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1607
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1636
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1686
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1729
+msgid "Complete"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1608
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1639
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1689
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1730
+msgid "Denied"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1609
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1642
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1692
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1731
+msgid "Expired"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1610
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1645
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1695
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1732
+msgid "Failed"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1611
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1648
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1698
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1733
+msgid "Pending"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1612
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1651
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1701
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1734
+msgid "Processed"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1613
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1654
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1704
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1735
+msgid "Processing"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1614
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1657
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1707
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1736
+msgid "Refunded"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1615
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1660
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1710
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1737
+msgid "Reversed"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1616
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1663
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1713
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1738
+msgid "Shipped"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1617
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1666
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1716
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1739
+msgid "Voided"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1619
+msgid "Set the default order status when an order is processed."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1623
+msgid "Processing Order Status"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1669
+msgid ""
+"Set the order status the customer's order must reach before the order starts "
+"stock subtraction and coupon, voucher and rewards redemption."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1673
+msgid "Complete Order Status"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1719
+msgid ""
+"Set the order status the customer's order must reach before they are allowed "
+"to access their downloadable products and gift vouchers."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1723
+msgid "Fraud Order Status"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1741
+msgid ""
+"Set the order status when a customer is suspected of trying to alter the "
+"order payment details or use a coupon, gift voucher or reward points that "
+"have already been used."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1745
+msgid "API User"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1751
+msgid "Default API user the admin should use."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1761
+#: config/admin-menu.php:796
+msgid "Security"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1763
+msgid "Use Shared Sessions"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1768
+msgid ""
+"Try to share the session cookie between stores so the cart can be passed "
+"between different domains."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1772
+msgid "Encryption Key"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1775
+msgid ""
+"Please provide a secret key that will be used to encrypt private information "
+"when processing orders."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1783
+msgid "Uploads"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1785
+msgid "Max File Size"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1788
+msgid ""
+"The maximum file size you can allow customers to upload. Enter as megabyte."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1793
+msgid "Allowed File Extensions"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1796
+msgid ""
+"Add which file extensions are allowed to be uploaded. Use a new line for "
+"each value."
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1801
+msgid "Allowed File Mime Types"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_settings_settings.html:1804
+msgid ""
+"Add which file mime types are allowed to be uploaded. Use a new line for "
+"each value."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:9
+msgid "Landing - Blog page"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:421
+#: storage/compiled-templates/admin_1_default_content_posts.html:643
+msgid "No posts to display!"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:438
+msgid "Post author"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:443
+msgid "admin"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:450
+msgid "Post date"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:466
+msgid "2 comments"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:489
+msgid "#tag 1"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:492
+msgid "#tag 2"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:523
+#: storage/compiled-templates/admin_1_default_index.html:408
+#: storage/compiled-templates/admin_1_default_index.html:444
+#: storage/compiled-templates/admin_1_default_index.html:775
+msgid "1"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:582
+msgid "About"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:584
+msgid ""
+"Integer non diam sit amet magna luctus mollis ac eu nisi. In accumsan tellus "
+"ut dapibus blandit."
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:591
+msgid "Recent posts"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:595
+#: storage/compiled-templates/app_1_landing_content_index.html:618
+#: storage/compiled-templates/app_1_landing_content_index.html:658
+#: storage/compiled-templates/app_1_landing_content_index.html:684
+msgid "January 2021"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:598
+#: storage/compiled-templates/app_1_landing_content_index.html:621
+#: storage/compiled-templates/app_1_landing_content_index.html:661
+#: storage/compiled-templates/app_1_landing_content_index.html:687
+msgid "December 2020"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:601
+#: storage/compiled-templates/app_1_landing_content_index.html:624
+#: storage/compiled-templates/app_1_landing_content_index.html:664
+#: storage/compiled-templates/app_1_landing_content_index.html:690
+msgid "November 2018"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:604
+#: storage/compiled-templates/app_1_landing_content_index.html:627
+#: storage/compiled-templates/app_1_landing_content_index.html:667
+#: storage/compiled-templates/app_1_landing_content_index.html:693
+msgid "October 2018"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:614
+msgid "Recent comments"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:654
+msgid "Archives"
+msgstr ""
+
+#: storage/compiled-templates/app_1_landing_content_index.html:680
+msgid "Popular tags"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:16
+msgid "Vvveb - Dasboard"
+msgstr ""
+
+msgid "Total new orders"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:403
+msgid "Refunds"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:408
+#: config/admin-menu.php:264 config/admin-menu.php:594
+msgid "Returns"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:430
+msgid "Total users"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:439
+msgid "this month"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:444
+msgid "this year"
+msgstr ""
+
+msgid "Total Comments"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:474
+msgid "total"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:479
+msgid "spam"
+msgstr ""
+
+msgid "Total reviews"
+msgstr ""
+
+msgid "unapproved"
+msgstr ""
+
+msgid "approved"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:642
+msgid "Line chart"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:754
+msgid "Latest orders"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:765
+msgid "#"
+msgstr ""
+
+msgid "Date added"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:769
+msgid "Total"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:770
+#: storage/compiled-templates/admin_1_default_index.html:880
+#: storage/compiled-templates/admin_1_default_index.html:938
+msgid "Action"
+msgstr ""
+
+msgid "Top products sales"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:833
+msgid "Trend"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:843
+msgid "31/05/2018"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:850
+msgid "No prodcuts to display!"
+msgstr ""
+
+msgid "New customers"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:879
+msgid "Date joined"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:907
+msgid "No customers to display!"
+msgstr ""
+
+msgid "New comments"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:937
+msgid "Comment"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:961
+msgid "No comments to display!"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:1009
+msgid "No news to display!"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:1046
+msgid "Widgets"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:1056
+msgid "Published"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:1057
+msgid "Draft"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:1058
+msgid "Pending preview"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_index.html:1064
+msgid "Add widget"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_posts.html:16
+msgid "Vvveb - Posts"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_posts.html:355
+#: storage/compiled-templates/admin_1_default_product_products.html:355
+msgid "Product 15"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_posts.html:361
+#: storage/compiled-templates/admin_1_default_product_products.html:361
+msgid "Product 21"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_posts.html:367
+#: storage/compiled-templates/admin_1_default_product_products.html:367
+msgid "Product 14"
+msgstr ""
+
+msgid "Thumbnail"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_posts.html:531
+msgid "Author"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_content_posts.html:649
+msgid "Add post"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_products.html:16
+msgid "Vvveb - Products"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_products.html:317
+#: storage/compiled-templates/admin_1_default_product_products.html:632
+msgid "&nbsp; Add product"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_products.html:529
+#: config/admin-menu.php:610
+msgid "Stock"
+msgstr ""
+
+#: storage/compiled-templates/admin_1_default_product_products.html:627
+msgid "No products to display!"
+msgstr ""
+
+msgid " ago"
+msgstr ""
+
+#: system/functions.php:176
+msgid " from now"
+msgstr ""
+
+#: system/validator.php:41 system/validator.php:126
+#, php-format
+msgid "%s is empty"
+msgstr ""
+
+#: system/validator.php:42
+#, php-format
+msgid "%s is invalid, valid options are %s"
+msgstr ""
+
+#: system/validator.php:43
+#, php-format
+msgid "%s is longer than %d"
+msgstr ""
+
+#: system/validator.php:44
+#, php-format
+msgid "%s is shorter than %d"
+msgstr ""
+
+#: system/validator.php:45
+#, php-format
+msgid "%s does not match %s"
+msgstr ""
+
+#: system/validator.php:46 system/validator.php:47
+#, php-format
+msgid "%s is invalid"
+msgstr ""
+
+#: system/validator.php:48
+#, php-format
+msgid "%s invalid email"
+msgstr ""
+
+#: system/validator.php:49
+#, php-format
+msgid "%s not complex enough, include uppercase letters and digits"
+msgstr ""
+
+#: plugins/markdown-editor/admin/controller/settings.php:187
+msgid "Editor complete!"
+msgstr ""
+
+#: plugins/markdown-editor/plugin.php:44
+msgid "Markdown Editor"
+msgstr ""
+
+#: plugins/seo/plugin.php:46
+msgid "Seo optimization"
+msgstr ""
+
+#: plugins/test-plugin2/plugin.php:48
+msgid "Test plugin"
+msgstr ""
+
+#: plugins/cookie-notice/plugin.php:43
+msgid "Cookie notice"
+msgstr ""
+
+#: plugins/insert-scripts/plugin.php:45
+msgid "Insert scripts"
+msgstr ""
+
+#: plugins/cdn/plugin.php:44
+msgid "CDN for static content"
+msgstr ""
+
+#: plugins/plugin-market/plugin.php:57
+msgid "Plugin market"
+msgstr ""
+
+#: plugins/markdown-import/admin/controller/settings.php:212
+msgid "Import complete!"
+msgstr ""
+
+#: plugins/markdown-import/plugin.php:44
+msgid "Markdown Import"
+msgstr ""
+
+#: plugins/minify/plugin.php:43
+msgid "Minify"
+msgstr ""
+
+#: plugins/contact-form/plugin.php:49
+msgid "Contact form"
+msgstr ""
+
+#: plugins/theme-market/plugin.php:57
+msgid "Theme market"
+msgstr ""
+
+#: plugins/import-wordpress/plugin.php:44
+msgid "Import Wordpress"
+msgstr ""
+
+#: config/custom-product-menu.php:51
+msgid "Taxonomy"
+msgstr ""
+
+#: config/custom-product-menu.php:62
+msgid "Manufacturers"
+msgstr ""
+
+#: config/custom-product-menu.php:68
+msgid "Vendors"
+msgstr ""
+
+#: config/custom-product-menu.php:74 config/custom-product-menu.php:97
+#: config/admin-menu.php:366
+msgid "Configuration"
+msgstr ""
+
+#: config/custom-product-menu.php:79 config/admin-menu.php:490
+msgid "Custom fields"
+msgstr ""
+
+#: config/custom-product-menu.php:85
+msgid "Options"
+msgstr ""
+
+#: config/custom-product-menu.php:91
+msgid "Digital content"
+msgstr ""
+
+#: config/custom-product-menu.php:110
+msgid "Questions"
+msgstr ""
+
+msgid "Posts"
+msgstr ""
+
+#: config/custom-post-menu.php:39
+msgid "List"
+msgstr ""
+
+#: config/custom-post-menu.php:51 config/admin-menu.php:149
+msgid "Classification"
+msgstr ""
+
+#: config/custom-post-menu.php:63 config/admin-menu.php:510
+msgid "Tags"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Edit website"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+#: config/admin-menu.php:144
+msgid "Add new page"
+msgstr ""
+
+#: config/admin-menu.php:154 config/admin-menu.php:484
+msgid "Menus"
+msgstr ""
+
+msgid "Media library"
+msgstr ""
+
+#: config/admin-menu.php:229 config/admin-menu.php:453
+msgid "Add new user"
+msgstr ""
+
+#: config/admin-menu.php:237 config/admin-menu.php:521
+msgid "Ecommerce"
+msgstr ""
+
+#: config/admin-menu.php:258
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+#: config/admin-menu.php:377
+msgid "Installed Plugins"
+msgstr ""
+
+#: config/admin-menu.php:383
+msgid "Add new plugin"
+msgstr ""
+
+#: config/admin-menu.php:389 config/admin-menu.php:420
+msgid "Code editor"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+#: config/admin-menu.php:408
+msgid "Installed Themes"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+#: config/admin-menu.php:435
+msgid "General Settings"
+msgstr ""
+
+#: config/admin-menu.php:441
+msgid "Admin users"
+msgstr ""
+
+#: config/admin-menu.php:459
+msgid "Roles"
+msgstr ""
+
+#: config/admin-menu.php:464 config/admin-menu.php:551
+msgid "Manage Roles"
+msgstr ""
+
+#: config/admin-menu.php:470 config/admin-menu.php:557
+msgid "Add Roles"
+msgstr ""
+
+#: config/admin-menu.php:496
+msgid "Taxonomies"
+msgstr ""
+
+#: config/admin-menu.php:504
+msgid "(Hierarchical)"
+msgstr ""
+
+#: config/admin-menu.php:511
+msgid "(Flat)"
+msgstr ""
+
+#: config/admin-menu.php:528
+msgid "Checkout & payments"
+msgstr ""
+
+#: config/admin-menu.php:534
+msgid "Shipping"
+msgstr ""
+
+#: config/admin-menu.php:539
+msgid "Shipping zones"
+msgstr ""
+
+#: config/admin-menu.php:545 config/admin-menu.php:587
+msgid "Tax rates"
+msgstr ""
+
+#: config/admin-menu.php:565
+msgid "Email notifications"
+msgstr ""
+
+#: config/admin-menu.php:571
+msgid "Discount coupons"
+msgstr ""
+
+#: config/admin-menu.php:576
+msgid "Taxes"
+msgstr ""
+
+#: config/admin-menu.php:581
+msgid "Tax classes"
+msgstr ""
+
+#: config/admin-menu.php:599
+msgid "Statuses"
+msgstr ""
+
+#: config/admin-menu.php:615
+msgid "Return"
+msgstr ""
+
+#: config/admin-menu.php:621
+msgid "Subscription"
+msgstr ""
+
+#: config/admin-menu.php:631
+msgid "Classes"
+msgstr ""
+
+#: config/admin-menu.php:641
+msgid "Localisation"
+msgstr ""
+
+#: config/admin-menu.php:647
+msgid "Languages"
+msgstr ""
+
+#: config/admin-menu.php:653
+msgid "Currencies"
+msgstr ""
+
+#: config/admin-menu.php:658
+msgid "Geo location"
+msgstr ""
+
+#: config/admin-menu.php:664
+msgid "Countries"
+msgstr ""
+
+#: config/admin-menu.php:670
+msgid "Zones"
+msgstr ""
+
+#: config/admin-menu.php:675
+msgid "Geo Zones"
+msgstr ""
+
+#: config/admin-menu.php:683
+msgid "Translations"
+msgstr ""
+
+#: config/admin-menu.php:690 config/admin-menu.php:696
+msgid "Sites"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+#: config/admin-menu.php:725
+msgid "Backup"
+msgstr ""
+
+#: config/admin-menu.php:731
+msgid "Cron job"
+msgstr ""
+
+#: config/admin-menu.php:737
+msgid "Import/Export"
+msgstr ""
+
+#: config/admin-menu.php:747
+msgid "Import content"
+msgstr ""
+
+#: config/admin-menu.php:753
+msgid "Export content"
+msgstr ""
+
+#: config/admin-menu.php:758
+msgid "Media"
+msgstr ""
+
+#: config/admin-menu.php:762
+msgid "Import media"
+msgstr ""
+
+#: config/admin-menu.php:768
+msgid "Export media"
+msgstr ""
+
+#: config/admin-menu.php:776
+msgid "System info"
+msgstr ""
+
+#: config/admin-menu.php:782
+msgid "System Info"
+msgstr ""
+
+#: config/admin-menu.php:788
+msgid "Error log"
+msgstr ""
+
+#: app/component/checkout.php:63
+msgid "checkout created!"
+msgstr ""
+
+#: app/component/checkout.php:65 app/controller/user/signup.php:49
+msgid "This email has already been used!"
+msgstr ""
+
+#: app/component/checkout.php:68 app/controller/checkout/checkout.php:53
+msgid "Error creating checkout!"
+msgstr ""
+
+#: app/validate/checkout_shipping.php:29 app/validate/checkout_shipping.php:36
+#: app/validate/checkout_shipping.php:43 app/validate/checkout_shipping.php:50
+#: app/validate/checkout_shipping.php:57 app/validate/checkout_shipping.php:64
+#: app/validate/checkout_shipping.php:71 app/validate/checkout_shipping.php:78
+#: app/validate/checkout_shipping.php:85 app/validate/checkout_shipping.php:92
+#: app/validate/checkout_shipping.php:99 app/validate/checkout_shipping.php:106
+#: app/validate/checkout_shipping.php:113
+#: app/validate/checkout_shipping.php:120 app/validate/checkout_payment.php:29
+#: app/validate/checkout_payment.php:36 app/validate/checkout_payment.php:43
+#: app/validate/checkout_payment.php:50 app/validate/checkout_payment.php:57
+#: app/validate/checkout_payment.php:64 app/validate/checkout_payment.php:71
+#: app/validate/checkout_payment.php:78 app/validate/checkout_payment.php:85
+#: app/validate/checkout_payment.php:92 app/validate/checkout_payment.php:99
+#: app/validate/checkout_payment.php:106 app/validate/checkout_payment.php:113
+#: app/validate/checkout_payment.php:120
+#, php-format
+msgid "%s must not be greater than 100"
+msgstr ""
+
+#: app/controller/user/signup.php:44
+msgid "User created!"
+msgstr ""
+
+#: app/controller/user/signup.php:52
+msgid "Error creating user!"
+msgstr ""
+
+#: app/controller/content/post.php:58
+msgid "Post not found!"
+msgstr ""
+
+#: app/controller/checkout/checkout.php:48
+msgid "Order placed!"
+msgstr ""
+
+msgid "Landing - Homepage"
+msgstr "Landing - Pagina start"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Type for search"
+msgstr "Cautare"
+
+msgid "Newest"
+msgstr "Cele mai noi"
+
+msgid "Bestsellers"
+msgstr "Cele mai vandute"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Guides"
+msgstr "Ghid"
+
+msgid "Order status"
+msgstr "Status comanda"
+
+msgid "Shipping & Delivery"
+msgstr "Livrare"
+
+msgid "Payment options"
+msgstr "Optiuni plata"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Size: S"
+msgstr "Size: S"
+
+msgid "Color: Red"
+msgstr "Color: Red"
+
+msgid "Summary"
+msgstr "Summar"
+
+msgid "subtotal:"
+msgstr "subtotal:"
+
+msgid "$274.00"
+msgstr "$274.00"
+
+msgid "delivery:"
+msgstr "livrare:"
+
+msgid "Free"
+msgstr "Gratuit"
+
+msgid "discount:"
+msgstr "discount:"
+
+msgid "-15%"
+msgstr "-15%"
+
+msgid "total:"
+msgstr "total:"
+
+msgid "VIEW CART"
+msgstr "VEZI COS"
+
+msgid "check out"
+msgstr "mergi la casa"
+
+msgid "Enter text to search!"
+msgstr "Enter text to search!"
+
+msgid "No posts found!"
+msgstr "No posts found!"
+
+msgid "No products found!"
+msgstr "No products found!"
+
+msgid "asoss"
+msgstr "asoss"
+
+msgid "New Collection"
+msgstr "Colectie noua 4"
+
+msgid "view collection"
+msgstr "vezi colectia"
+
+msgid "Clothing"
+msgstr "Haine"
+
+msgid "Shoes"
+msgstr "Pantofi"
+
+msgid "Accessories"
+msgstr "Accessorii"
+
+msgid "-60%"
+msgstr "-60%"
+
+msgid "Global Sale"
+msgstr "Global Sale"
+
+msgid "Buy Now"
+msgstr "Buy Now"
+
+msgid "Continue reading"
+msgstr "Continua sa citesti"
+
+msgid "Term of use"
+msgstr "Termeni si conditii"
+
+msgid "Subscribe"
+msgstr "Subscribtie"
+
+msgid "Copyright &copy;"
+msgstr "Drepturi de autor &copy;"
+
+msgid "All rights reserved | This template is made with"
+msgstr "Toate drepturile rezervate"
+
+msgid "Colorlib"
+msgstr "Colorlib"
+
+msgid "Total Users"
+msgstr "Total Utilizatori"
+
+msgid "Latests orders"
+msgstr "Ultimele comenzi"
+
+msgid "No orders to display"
+msgstr "Nu sunt comenzi de afisat"
+
+msgid "Clienti"
+msgstr "Customers"
+
+msgid "post"
+msgstr "postare"
+
+msgid "Save post"
+msgstr "Salveaza postarea"
+
+msgid "Post list"
+msgstr "Lista postari"
+
+msgid "Open in Page Editor"
+msgstr "Deschide in editorul de pagina"
+
+msgid "%d second"
+msgstr "%d secunda"
+
+msgid "%d seconds"
+msgstr "%d secunde"
+
+msgid "%d minute"
+msgstr "%d minut"
+
+msgid "%d minutes"
+msgstr "%d minute"
+
+msgid "%d hour"
+msgstr "%d ora"
+
+msgid "%d hours"
+msgstr "%d ore"
+
+msgid "%d day"
+msgstr "%d zi"
+
+msgid "%d days"
+msgstr "%d zile"
+
+msgid "%d week"
+msgstr "%d saptamana"
+
+msgid "%d weeks"
+msgstr "%d saptamani"
+
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d luna"
+msgstr[1] "%d luni"
+msgstr[2] ""
+
+msgid "%d year"
+msgstr "%d an"
+
+msgid "%d years"
+msgstr "%d ani"
+
+msgid "%d decade"
+msgstr "%d decada"
+
+msgid "%d decades"
+msgstr "%d decenii"
+
+msgid "%d century"
+msgstr "%d secol"
+
+msgid "%d centuries"
+msgstr "%d secole"
+
+msgid "  from now"
+msgstr " de acum"

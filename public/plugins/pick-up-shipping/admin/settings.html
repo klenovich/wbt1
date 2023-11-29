@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="icon" href="../../favicon.ico">
+  
+
+  <base href="">
+
+  <title>Vvveb - Pick up shipping</title>
+
+  <link href="css/admin.css" rel="stylesheet">
+</head>
+
+
+<body>
+
+  <div id="container">
+
+    <div class="sidebar" data-v-copy-from="index.html,.sidebar">
+    </div>
+
+
+    <div class="main">
+
+      <div class="clearfix top-header" data-v-copy-from="index.html,.top-header">
+
+      </div>
+
+      <form id="settings-form" action="" method="post" class="needs-validation" novalidate data-v-product>
+        <input type="hidden" name="action" id="action" value="save">
+        <div class="actions">
+          <div class="title">
+            <h4 class="text-muted mt-2">
+              <i class="icon-cube-outline"></i>&ensp;
+              Flat rate shipping
+            </h4>
+          </div>
+          <div class="btns">
+          <button type="submit" href="" class="btn btn-primary btn-icon ms-1" title="Save post">
+            <i class="icon-create-outline"></i> <span>Save settings</span>
+          </button>
+        </div>
+        </div>
+        <div>
+          <div id="main-content">
+
+         	<div class="notifications" data-v-notifications data-v-copy-from="index.html,.notifications"></div>
+
+            <div class="content clearfix settings px-4">
+
+	
+				  <div class="row mb-3">
+					<label for="input-geo-region" class="col-sm-2 col-form-label">Geo Region</label>
+					<div class="col-sm-10">
+					  <select name="settings[geo_region_id]" id="input-geo-region" class="form-select">
+						  <option value="0">All Regions</option>
+						  <option value="1">UK Shipping</option>
+						  <option value="2">UK VAT Region</option>
+					  </select>
+					</div>
+				  </div>
+				  <div class="row mb-3">
+					<label for="input-sort-order" class="col-sm-2 col-form-label">Sort Order</label>
+					<div class="col-sm-10">
+					  <input type="text" name="settings[sort_order]" value="1" placeholder="Sort Order" id="input-sort-order" class="form-control">
+					</div>
+				  </div>
+
+						
+
+
+            </div>
+          </div>
+      </form>
+
+    </div>
+  </div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script id="admin-js" type="module" src="../../js/admin.js"></script>
+  <script type="module" src="../../js/admin.js"></script>
+
+
+  
+
+</body>
+
+</html>
